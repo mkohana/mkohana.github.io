@@ -20,7 +20,7 @@ weight = 15
     * Co-Chair, 2015-2016
     * Program Committee Member, 2013-2014
 * The 17th International Conference on Network-Based Information Systems (NBiS2014) Program Committee Member
-* IEICE ISS Cyberworlds (Type-2 Technical Group), Secretary, 2014-present
+* IEICE ISS Cyberworlds (Type-2 Technical Group) ([Link:Japanese](http://www.ieice.org/iss/cw/jpn/)) , Secretary, 2014-present
 * Special Section on Cyberworlds, IEICE Transactions on Information & Systems, Editing Secretary, 2016
 
 ## Award

@@ -1,4 +1,4 @@
-baseurl = "https://mkohana.github.io"
+baseurl = "https://mkohana.github.io/"
 title = "Masaki Kohana"
 copyright = "&copy; 2016 Masaki Kohana"
 theme = "academic"

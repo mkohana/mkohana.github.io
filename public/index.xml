@@ -1,14 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Masaki Kohana on Masaki Kohana</title>
+    <title>Masaki Kohana</title>
     <link>https://mkohana.github.io/index.xml</link>
-    <description>Recent content in Masaki Kohana on Masaki Kohana</description>
+    <description>Recent content on Masaki Kohana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Masaki Kohana</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2016 21:11:48 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open My Web Site</title>
+      <link>https://mkohana.github.io/post/Open-My-Web-Site/</link>
+      <pubDate>Fri, 23 Dec 2016 21:11:48 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/post/Open-My-Web-Site/</guid>
+      <description>
+
+&lt;p&gt;Today I open my web site.
+This site is powered by &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;hugo&lt;/a&gt;
+and uses &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;academic template&lt;/a&gt;
+created by George Cushen.
+To host my site, I use github pages. However, I was faced with some problems.
+The following is a note for me to host a hugo site on github pages.&lt;/p&gt;
+
+&lt;h3 id=&#34;repository-structure&#34;&gt;Repository Structure&lt;/h3&gt;
+
+&lt;p&gt;The most web sites or blogs creates two branches, master and gh-pages.
+The master branch includes the sources.
+Using these source files, hugo builds a web site under the public directory
+(that can be changed on config.toml).
+The gh-pages branch has the site created by hugo
+and it is published on github pages.&lt;/p&gt;
+
+&lt;p&gt;However, personal or organization github pages cannot use gh-pages branch.
+On these github pages, the master branch is published as a web site.
+Therefore, we need to push the files under the public directory
+to the master branch.
+So I create master branch and devel branch.
+The deploy method follows &lt;a href=&#34;https://gohugo.io/tutorials/github-pages-blog/&#34; target=&#34;_blank&#34;&gt;the official document&lt;/a&gt;.
+And I replace &amp;ldquo;master&amp;rdquo; with &amp;ldquo;devel&amp;rdquo; and also &amp;ldquo;gh-pages&amp;rdquo; with &amp;ldquo;master&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Finally, I had mistake on the config.toml.
+If the &amp;ldquo;/&amp;rdquo; at the last of baseurl, the created link misses the separater.
+As the result, the link target becomes &amp;ldquo;github.iopublication&amp;rdquo;, for example.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Food Truck Scheduling Model</title>

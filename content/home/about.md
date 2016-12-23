@@ -42,3 +42,4 @@ His research interests includes web-based systems, parallel and distributed syst
 and text mining.
 
 He is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.
+

@@ -100,34 +100,39 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Activity"
+  url = "#activity"
+  weight = 2
+
+[[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Conferences"
   url = "#conferences"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

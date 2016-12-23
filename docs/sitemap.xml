@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://mkohana.github.io/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/home/conferences/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/home/teaching/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/Food-Truck-Scheduling-Model/</loc>
+    <lastmod>2016-07-18T17:38:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/Access-Control-for-a-Confirming-Attendance-System/</loc>
+    <lastmod>2016-07-18T16:57:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/Optimal-Data-Allocation-and-Fairness-for-Online-Games/</loc>
+    <lastmod>2014-06-29T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/A-Meta-Heuristic-Approach-for-Dynamic-Data-Allocation-on-a-Multiple-Web-Server-System/</loc>
+    <lastmod>2013-12-01T16:52:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/Document-Clustering-Based-on-Web-Search-Hit-Counts/</loc>
+    <lastmod>2013-05-23T16:42:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/Dynamic-Reallocation-Rules-on-Multi-Server-Web-Based-MORPG-System/</loc>
+    <lastmod>2012-04-23T16:31:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/Load-Distribution-by-using-Web-Workers-for-a-Real-Time-Web-Application/</loc>
+    <lastmod>2011-05-23T16:57:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/Evaluation-of-a-Dynamic-Data-Allocation-Method-for-Web-Based-Multi-Server-MORPG-System/</loc>
+    <lastmod>2010-12-01T16:46:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/home/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/profile/profile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/profile/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mkohana.github.io/publication/</loc>
+    <lastmod>2016-07-18T17:38:43+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masaki Kohana on Masaki Kohana</title>
+    <link>https://mkohana.github.io/index.xml</link>
+    <description>Recent content in Masaki Kohana on Masaki Kohana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Masaki Kohana</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Food Truck Scheduling Model</title>
+      <link>https://mkohana.github.io/publication/Food-Truck-Scheduling-Model/</link>
+      <pubDate>Mon, 18 Jul 2016 17:38:43 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/Food-Truck-Scheduling-Model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access Control for a Confirming Attendance System</title>
+      <link>https://mkohana.github.io/publication/Access-Control-for-a-Confirming-Attendance-System/</link>
+      <pubDate>Mon, 18 Jul 2016 16:57:00 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/Access-Control-for-a-Confirming-Attendance-System/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Data Allocation and Fairness for Online Games</title>
+      <link>https://mkohana.github.io/publication/Optimal-Data-Allocation-and-Fairness-for-Online-Games/</link>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/Optimal-Data-Allocation-and-Fairness-for-Online-Games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Meta Heuristic Approach for Dynamic Data Allocation on a Multiple Web Server System</title>
+      <link>https://mkohana.github.io/publication/A-Meta-Heuristic-Approach-for-Dynamic-Data-Allocation-on-a-Multiple-Web-Server-System/</link>
+      <pubDate>Sun, 01 Dec 2013 16:52:48 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/A-Meta-Heuristic-Approach-for-Dynamic-Data-Allocation-on-a-Multiple-Web-Server-System/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document Clustering Based on Web Search Hit Counts</title>
+      <link>https://mkohana.github.io/publication/Document-Clustering-Based-on-Web-Search-Hit-Counts/</link>
+      <pubDate>Thu, 23 May 2013 16:42:46 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/Document-Clustering-Based-on-Web-Search-Hit-Counts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Reallocation Rules on Multi-Server Web-Based MORPG System</title>
+      <link>https://mkohana.github.io/publication/Dynamic-Reallocation-Rules-on-Multi-Server-Web-Based-MORPG-System/</link>
+      <pubDate>Mon, 23 Apr 2012 16:31:49 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/Dynamic-Reallocation-Rules-on-Multi-Server-Web-Based-MORPG-System/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load Distribution by using Web Workers for a Real Time Web Application</title>
+      <link>https://mkohana.github.io/publication/Load-Distribution-by-using-Web-Workers-for-a-Real-Time-Web-Application/</link>
+      <pubDate>Mon, 23 May 2011 16:57:22 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/Load-Distribution-by-using-Web-Workers-for-a-Real-Time-Web-Application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a Dynamic Data Allocation Method for Web-Based Multi-Server MORPG System</title>
+      <link>https://mkohana.github.io/publication/Evaluation-of-a-Dynamic-Data-Allocation-Method-for-Web-Based-Multi-Server-MORPG-System/</link>
+      <pubDate>Wed, 01 Dec 2010 16:46:25 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/Evaluation-of-a-Dynamic-Data-Allocation-Method-for-Web-Based-Multi-Server-MORPG-System/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.Kohana Profile</title>
+      <link>https://mkohana.github.io/profile/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mkohana.github.io/profile/profile/</guid>
+      <description>
+
+&lt;h1 id=&#34;basic-info&#34;&gt;Basic Info&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;Masaki Kohana&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Degree&lt;/td&gt;
+&lt;td&gt;Ph.D.SciTech, Seikei University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;E-mail&lt;/td&gt;
+&lt;td&gt;kohana[at]st.seikei.ac.jp&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;E-mail&lt;/td&gt;
+&lt;td&gt;mkohana[at]acm.org&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Address&lt;/td&gt;
+&lt;td&gt;Kichijoji-Kitamachi 3-3-1, Musashino-shi, Tokyo, Japan&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Society&lt;/td&gt;
+&lt;td&gt;ACM, IEEE Computer Society, IEICE, IPSJ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;profile&#34;&gt;Profile&lt;/h1&gt;
+
+&lt;h1 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web-based System&lt;/li&gt;
+&lt;li&gt;Parallel and Distributed System&lt;/li&gt;
+&lt;li&gt;Text mining&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;publication&#34;&gt;Publication&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;publication.html&#34; target=&#34;_blank&#34;&gt;Journal and Conference Paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;skill&#34;&gt;Skill&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Golang&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;experience&#34;&gt;Experience&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assistant Professor, Dept. of Computer and Information Science,
+Faculty of Science and Technology,
+Seikei University, 2013.04-present&lt;/li&gt;
+&lt;li&gt;Part-time Lecture, Dept. of Computer and Information Science,
+Faculty of Science and Technology,
+Seikei University, 2012.04-2013.03&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Seikei University
+
+&lt;ul&gt;
+&lt;li&gt;Fundamental Programming, 2013-2014&lt;/li&gt;
+&lt;li&gt;Fundamental Programming Experiment, 2012-present&lt;/li&gt;
+&lt;li&gt;Regular Programming Experiment, 2012&lt;/li&gt;
+&lt;li&gt;Advanced Programming, 2013-present&lt;/li&gt;
+&lt;li&gt;Advanced Programming Experiment, 2013-present&lt;/li&gt;
+&lt;li&gt;Java Programming, 2013-2015&lt;/li&gt;
+&lt;li&gt;Java Programming Experiment, 2013-2015&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ph.D.SciTech, Seikei Univeristy, 2013.03&lt;/li&gt;
+&lt;li&gt;M.Eng, Seikei University, 2010.03&lt;/li&gt;
+&lt;li&gt;B.Eng, Seikei University, 2008.03&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;award&#34;&gt;Award&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Best Paper Award, The 18th International Conference on Network-Based Information Systems
+(NBiS2015) Workshop, 2015.09&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;activity&#34;&gt;Activity&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;International Workshop on Web Services and Social Media
+
+&lt;ul&gt;
+&lt;li&gt;Co-Chair, 2015-2016&lt;/li&gt;
+&lt;li&gt;Program Committee Member, 2013-2014&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The 17th International Conference on Network-Based Information Systems (NBiS2014) Program
+Committee Member&lt;/li&gt;
+&lt;li&gt;IEICE ISS Cyberworlds (Type-2 Technical Group), Secretary, 2014-present&lt;/li&gt;
+&lt;li&gt;Special Section on Cyberworlds, IEICE Transactions on Information &amp;amp; Systems, Editing Secretary,
+2016&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

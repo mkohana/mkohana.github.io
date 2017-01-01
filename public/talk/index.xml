@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk-rsses on Masaki Kohana</title>
+    <link>https://mkohana.github.io/talk/index.xml</link>
+    <description>Recent content in Talk-rsses on Masaki Kohana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Masaki Kohana</copyright>
+    <lastBuildDate>Wed, 07 Sep 2016 18:15:15 +0900</lastBuildDate>
+    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Reservation System for Oral Exam of Programming Class</title>
+      <link>https://mkohana.github.io/talk/A-Reservation-System-for-Oral-Exam-of-Programming-Class/</link>
+      <pubDate>Wed, 07 Sep 2016 18:15:15 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/talk/A-Reservation-System-for-Oral-Exam-of-Programming-Class/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -32,12 +32,14 @@ weight = 10
   course = "B.Eng"
   institution = "Seikei University"
   year = 2008
- 
+
 +++
 
 # Biography
 
-Masaki Kohana is an assistant professor at Computer System Lab, Seikei University.
+Masaki Kohana is an assistant professor at Ibaraki University from Feb 2017.
+He was an assistant professor at Department of Computer and Information Science, Seikei Univeristy
+from Apr 2013 to Jan 2017.
 His research interests includes web-based systems, parallel and distributed systems,
 and text mining.
 

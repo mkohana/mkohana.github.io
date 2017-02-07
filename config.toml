@@ -22,10 +22,10 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Masaki Kohana"
   role = "Assistant Professor"
-  organization = "Seikei University"
+  organization = "Ibaraki University"
   avatar = "portrait.jpg"
-  email = "kohana@st.seikei.ac.jp"
-  address = "Building 11 Room 1414, Seikei University, Kichijoji-Kitamachi 3-3-1, Musashino-shi, Tokyo, Japan"
+  email = "masaki.kohana.gopher@vc.ibaraki.ac.jp"
+  address = "Building S1 Room 812, Ibaraki University, 4-12-1, Nakanarusawa, Hitachi, Ibaraki, Japan"
   office_hours = ""
   phone = ""
   skype = ""
@@ -71,7 +71,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:kohana@st.seikei.ac.jp"
+    link = "mailto:masaki.kohana.gopher@vc.ibaraki.ac.jp"
 
 #  [[params.social]]
 #    icon = "twitter"

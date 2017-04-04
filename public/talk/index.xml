@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Masaki Kohana</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 18:25:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Distributed Calculation Scheme for Contents Categorization</title>
+      <link>https://mkohana.github.io/talk/A-Distributed-Calculation-Scheme-for-Contents-Categorization/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mkohana.github.io/talk/A-Distributed-Calculation-Scheme-for-Contents-Categorization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A C&#43;&#43; Header Library for Web Applications</title>

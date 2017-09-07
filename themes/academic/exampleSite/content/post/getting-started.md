@@ -1,26 +1,34 @@
 +++
-date = "2016-04-20T12:00:00"
+date = 2016-04-20
+lastmod = 2017-09-03
 draft = false
-image = "banners/getting-started.png"
 tags = ["academic", "hugo"]
-title = "Getting started with the Academic theme for Hugo"
+title = "Getting started with the Academic framework for Hugo"
 math = true
 summary = """
-Create a beautifully simple academic or personal website in under 10 minutes. 
+Create a beautifully simple personal or academic website in under 10 minutes. 
 """
+
+[header]
+image = "headers/getting-started.png"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
 +++
 
-The Academic theme enables you to easily create a beautifully simple academic or personal website using the [Hugo](https://gohugo.io) static site generator.
+The Academic framework enables you to easily create a beautifully simple personal or academic website using the [Hugo](https://gohugo.io) static site generator.
 
 Key features:
 
-- Designed for academic staff, students, or general personal use
-- Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, Contact, and Custom
+- Easily manage your homepage, blog posts, publications, talks, and projects
+- Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact
+- Need a different section? Just use the Custom widget!
 - Write in [Markdown]({{< ref "post/writing-markdown-latex.md" >}}) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
-- Academic linking (Scholar etc.), [Google Analytics](https://analytics.google.com), and [Disqus](https://disqus.com) comments
+- Social/academic network linking, [Google Analytics](https://analytics.google.com), and [Disqus](https://disqus.com) comments
 - Responsive and mobile friendly
 - Simple and refreshing one page design
 - Easy to customize
+
+{{% toc %}}
 
 ## Installation
 
@@ -29,7 +37,7 @@ Key features:
         hugo new site my_website
         cd my_website
 
-2. Install Academic theme with [git](https://help.github.com/articles/set-up-git/):
+2. Install Academic with [git](https://help.github.com/articles/set-up-git/):
 
         git clone https://github.com/gcushen/hugo-academic.git themes/academic
 
@@ -43,7 +51,7 @@ Key features:
 
         hugo server --watch
 
-    Now you can go to [localhost:1313](http://localhost:1313) and your new Academic themed website should appear.
+    Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
 
 5. Customize your website - refer to the *Getting Started* section below
 
@@ -84,16 +92,18 @@ Refer to our guide on [managing content]({{< ref "post/managing-content.md" >}})
 
 ### Customization & Upgrading
 
-Continue reading below for advanced customization tips and instructions for keeping the theme up-to-date with any improvements that become available.
+Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.
 
 
 ## Advanced customization
 
-It is possible to carry out many customizations without touching any files in `themes/academic`, making it easier to upgrade the theme in the future.
+It is possible to carry out many customizations without touching any files in `themes/academic`, making it easier to upgrade the framework in the future.
 
 ### Navigation menu
 
 The `[[menu.main]]` entries towards the bottom of `config.toml` define the navigation links at the top of the website. They can be added or removed as desired.
+
+To create a dropdown sub-menu, add `identifier = "something"` to the parent item and `parent = "something"` to the child item.
 
 ### Website icon
 
@@ -115,6 +125,20 @@ To add a third party script, create a file named `head_custom.html` in a `layout
 
 Whereas for your own local scripts, you can link your local JS assets (relative to your root `static/js`) from your `config.toml` using `custom_js  = ["custom.js"]`.
 
+### Language and translation
+
+The interface text (e.g. buttons) is stored in language files which are collected from Academic's `themes/academic/i18n/` folder, as well as an `i18n/` folder at the root of your project.
+
+To edit the interface text, copy `themes/academic/i18n/en.yaml` to `i18n/en.yaml` (relative to the root of your website). Open the new file and make any desired changes to the text appearing after `translation:`. Note that the language files are formatted in YAML syntax.
+
+To translate the interface text to another language, follow the above instructions, but name the new file in the form `i18n/X.yaml` where `X` is the appropriate [ISO/RFC5646 language identifier](http://www.w3schools.com/tags/ref_language_codes.asp) for the translation. Then follow the brief instructions in the *Language* section at the bottom of your `config.toml`. To change the default language used by Academic, set `defaultContentLanguage` to the desired language identifier in your configuration file.
+
+To translate the navigation bar, you can edit the default `[[menu.main]]` instances in `config.toml`. However, for a multilingual site, you will need to duplicate all of the `[[menu.main]]` instances and rename the new instances from `[[menu.main]]` to `[[languages.X.menu.main]]`, where `X` is the language identifier (e.g. `[[languages.zh.menu.main]]` for Simplified Chinese). Thus, the navigation bar can be displayed in multiple languages.
+
+To translate a content file in your `content/` folder into another language, copy the file to `filename.X.md` where `filename` is your existing filename and `X` is the appropriate [ISO/RFC5646 language identifier](http://www.w3schools.com/tags/ref_language_codes.asp) for the translation. Then translate the content in the new file to the specified language.
+
+For further details on Hugo's internationalization and multilingual features, refer to the [associated Hugo documentation](https://gohugo.io/content/multilingual/).
+
 ### Permalinks
 
 *Permalinks*, or *permanent links*, are URLs to individual pages and posts on your website. They are permanent web addresses which can be used to link to your content. Using Hugo's *permalinks* option these can be easily customized. For example, the blog post URL can be changed to the form *yourURL/2016/05/01/my-post-slug* by adding the following near the top of your `config.toml` (before `[params]` settings):
@@ -129,7 +153,7 @@ Where `:slug` defaults to the filename of the post, excluding the file extension
 
 Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) and monitor the [commits](https://github.com/gcushen/hugo-academic/commits/master) for updates.
 
-Before upgrading the theme, it is recommended to make a backup of your entire website directory, or at least your `themes/academic` directory. You can also read about the [most recent milestones](https://github.com/gcushen/hugo-academic/releases) (but this doesn't necessarily reflect the latest *master* release).
+Before upgrading the framework, it is recommended to make a backup of your entire website directory, or at least your `themes/academic` directory. You can also read about the [most recent milestones](https://github.com/gcushen/hugo-academic/releases) (but this doesn't necessarily reflect the latest *master* release).
 
 Before upgrading for the first time, the remote *origin* repository should be renamed to *upstream*:
 

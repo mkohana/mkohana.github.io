@@ -2,83 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Masaki Kohana</title>
-    <link>https://mkohana.github.io/publication/index.xml</link>
+    <link>https://mkohana.github.io/publication/</link>
     <description>Recent content in Publications on Masaki Kohana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Masaki Kohana</copyright>
     <lastBuildDate>Mon, 18 Jul 2016 17:38:43 +0900</lastBuildDate>
-    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Food Truck Scheduling Model</title>
-      <link>https://mkohana.github.io/publication/Food-Truck-Scheduling-Model/</link>
+      <link>https://mkohana.github.io/publication/food-truck-scheduling-model/</link>
       <pubDate>Mon, 18 Jul 2016 17:38:43 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Food-Truck-Scheduling-Model/</guid>
+      <guid>https://mkohana.github.io/publication/food-truck-scheduling-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Access Control for a Confirming Attendance System</title>
-      <link>https://mkohana.github.io/publication/Access-Control-for-a-Confirming-Attendance-System/</link>
+      <link>https://mkohana.github.io/publication/access-control-for-a-confirming-attendance-system/</link>
       <pubDate>Mon, 18 Jul 2016 16:57:00 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Access-Control-for-a-Confirming-Attendance-System/</guid>
+      <guid>https://mkohana.github.io/publication/access-control-for-a-confirming-attendance-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Data Allocation and Fairness for Online Games</title>
-      <link>https://mkohana.github.io/publication/Optimal-Data-Allocation-and-Fairness-for-Online-Games/</link>
+      <link>https://mkohana.github.io/publication/optimal-data-allocation-and-fairness-for-online-games/</link>
       <pubDate>Sun, 29 Jun 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Optimal-Data-Allocation-and-Fairness-for-Online-Games/</guid>
+      <guid>https://mkohana.github.io/publication/optimal-data-allocation-and-fairness-for-online-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Meta Heuristic Approach for Dynamic Data Allocation on a Multiple Web Server System</title>
-      <link>https://mkohana.github.io/publication/A-Meta-Heuristic-Approach-for-Dynamic-Data-Allocation-on-a-Multiple-Web-Server-System/</link>
+      <link>https://mkohana.github.io/publication/a-meta-heuristic-approach-for-dynamic-data-allocation-on-a-multiple-web-server-system/</link>
       <pubDate>Sun, 01 Dec 2013 16:52:48 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/A-Meta-Heuristic-Approach-for-Dynamic-Data-Allocation-on-a-Multiple-Web-Server-System/</guid>
+      <guid>https://mkohana.github.io/publication/a-meta-heuristic-approach-for-dynamic-data-allocation-on-a-multiple-web-server-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Document Clustering Based on Web Search Hit Counts</title>
-      <link>https://mkohana.github.io/publication/Document-Clustering-Based-on-Web-Search-Hit-Counts/</link>
+      <link>https://mkohana.github.io/publication/document-clustering-based-on-web-search-hit-counts/</link>
       <pubDate>Thu, 23 May 2013 16:42:46 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Document-Clustering-Based-on-Web-Search-Hit-Counts/</guid>
+      <guid>https://mkohana.github.io/publication/document-clustering-based-on-web-search-hit-counts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Reallocation Rules on Multi-Server Web-Based MORPG System</title>
-      <link>https://mkohana.github.io/publication/Dynamic-Reallocation-Rules-on-Multi-Server-Web-Based-MORPG-System/</link>
+      <link>https://mkohana.github.io/publication/dynamic-reallocation-rules-on-multi-server-web-based-morpg-system/</link>
       <pubDate>Mon, 23 Apr 2012 16:31:49 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Dynamic-Reallocation-Rules-on-Multi-Server-Web-Based-MORPG-System/</guid>
+      <guid>https://mkohana.github.io/publication/dynamic-reallocation-rules-on-multi-server-web-based-morpg-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Load Distribution by using Web Workers for a Real Time Web Application</title>
-      <link>https://mkohana.github.io/publication/Load-Distribution-by-using-Web-Workers-for-a-Real-Time-Web-Application/</link>
+      <link>https://mkohana.github.io/publication/load-distribution-by-using-web-workers-for-a-real-time-web-application/</link>
       <pubDate>Mon, 23 May 2011 16:57:22 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Load-Distribution-by-using-Web-Workers-for-a-Real-Time-Web-Application/</guid>
+      <guid>https://mkohana.github.io/publication/load-distribution-by-using-web-workers-for-a-real-time-web-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of a Dynamic Data Allocation Method for Web-Based Multi-Server MORPG System</title>
-      <link>https://mkohana.github.io/publication/Evaluation-of-a-Dynamic-Data-Allocation-Method-for-Web-Based-Multi-Server-MORPG-System/</link>
+      <link>https://mkohana.github.io/publication/evaluation-of-a-dynamic-data-allocation-method-for-web-based-multi-server-morpg-system/</link>
       <pubDate>Wed, 01 Dec 2010 16:46:25 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Evaluation-of-a-Dynamic-Data-Allocation-Method-for-Web-Based-Multi-Server-MORPG-System/</guid>
+      <guid>https://mkohana.github.io/publication/evaluation-of-a-dynamic-data-allocation-method-for-web-based-multi-server-morpg-system/</guid>
       <description></description>
     </item>
     

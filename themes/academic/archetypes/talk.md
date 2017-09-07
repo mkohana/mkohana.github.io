@@ -1,17 +1,24 @@
 +++
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = "{{ .Date }}"
+
 abstract = ""
 abstract_short = ""
-authors = [""]
-image = ""
-image_preview = ""
-math = false
-publication = ""
-publication_short = ""
+event = ""
+event_url = ""
+location = ""
+
 selected = false
+math = false
+highlight = true
+
 url_pdf = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
 url_slides = ""
 url_video = ""
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
 +++

@@ -2,29 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Masaki Kohana on Masaki Kohana</title>
-    <link>https://mkohana.github.io/index.xml</link>
+    <link>https://mkohana.github.io/</link>
     <description>Recent content in Masaki Kohana on Masaki Kohana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Masaki Kohana</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>A Distributed Calculation Scheme for Contents Categorization</title>
-      <link>https://mkohana.github.io/talk/A-Distributed-Calculation-Scheme-for-Contents-Categorization/</link>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mkohana.github.io/talk/A-Distributed-Calculation-Scheme-for-Contents-Categorization/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AirPods Has Come</title>
-      <link>https://mkohana.github.io/post/AirPods-Has-Come/</link>
+      <link>https://mkohana.github.io/post/airpods-has-come/</link>
       <pubDate>Mon, 02 Jan 2017 19:54:45 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/post/AirPods-Has-Come/</guid>
+      <guid>https://mkohana.github.io/post/airpods-has-come/</guid>
       <description>
 
 &lt;p&gt;I receive &lt;a href=&#34;http://www.apple.com/airpods/&#34; target=&#34;_blank&#34;&gt;AirPods&lt;/a&gt; today.&lt;/p&gt;
@@ -72,20 +63,11 @@ I&amp;rsquo;m worried about the lost it.&lt;/p&gt;
     </item>
     
     <item>
-      <title>A C&#43;&#43; Header Library for Web Applications</title>
-      <link>https://mkohana.github.io/talk/A-C&#43;&#43;-Header-Library-for-Web-Applications/</link>
-      <pubDate>Sun, 01 Jan 2017 18:25:09 +0900</pubDate>
-      
-      <guid>https://mkohana.github.io/talk/A-C&#43;&#43;-Header-Library-for-Web-Applications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Open My Web Site</title>
-      <link>https://mkohana.github.io/post/Open-My-Web-Site/</link>
+      <link>https://mkohana.github.io/post/open-my-web-site/</link>
       <pubDate>Fri, 23 Dec 2016 21:11:48 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/post/Open-My-Web-Site/</guid>
+      <guid>https://mkohana.github.io/post/open-my-web-site/</guid>
       <description>
 
 &lt;p&gt;Today I open my web site.
@@ -119,29 +101,74 @@ As the result, the link target becomes &amp;ldquo;github.iopublication&amp;rdquo
     </item>
     
     <item>
-      <title>A Reservation System for Oral Exam of Programming Class</title>
-      <link>https://mkohana.github.io/talk/A-Reservation-System-for-Oral-Exam-of-Programming-Class/</link>
-      <pubDate>Wed, 07 Sep 2016 18:15:15 +0900</pubDate>
-      
-      <guid>https://mkohana.github.io/talk/A-Reservation-System-for-Oral-Exam-of-Programming-Class/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Food Truck Scheduling Model</title>
-      <link>https://mkohana.github.io/publication/Food-Truck-Scheduling-Model/</link>
+      <link>https://mkohana.github.io/publication/food-truck-scheduling-model/</link>
       <pubDate>Mon, 18 Jul 2016 17:38:43 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Food-Truck-Scheduling-Model/</guid>
+      <guid>https://mkohana.github.io/publication/food-truck-scheduling-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Access Control for a Confirming Attendance System</title>
-      <link>https://mkohana.github.io/publication/Access-Control-for-a-Confirming-Attendance-System/</link>
+      <link>https://mkohana.github.io/publication/access-control-for-a-confirming-attendance-system/</link>
       <pubDate>Mon, 18 Jul 2016 16:57:00 +0900</pubDate>
       
-      <guid>https://mkohana.github.io/publication/Access-Control-for-a-Confirming-Attendance-System/</guid>
+      <guid>https://mkohana.github.io/publication/access-control-for-a-confirming-attendance-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Data Allocation and Fairness for Online Games</title>
+      <link>https://mkohana.github.io/publication/optimal-data-allocation-and-fairness-for-online-games/</link>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/optimal-data-allocation-and-fairness-for-online-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Meta Heuristic Approach for Dynamic Data Allocation on a Multiple Web Server System</title>
+      <link>https://mkohana.github.io/publication/a-meta-heuristic-approach-for-dynamic-data-allocation-on-a-multiple-web-server-system/</link>
+      <pubDate>Sun, 01 Dec 2013 16:52:48 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/a-meta-heuristic-approach-for-dynamic-data-allocation-on-a-multiple-web-server-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document Clustering Based on Web Search Hit Counts</title>
+      <link>https://mkohana.github.io/publication/document-clustering-based-on-web-search-hit-counts/</link>
+      <pubDate>Thu, 23 May 2013 16:42:46 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/document-clustering-based-on-web-search-hit-counts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Reallocation Rules on Multi-Server Web-Based MORPG System</title>
+      <link>https://mkohana.github.io/publication/dynamic-reallocation-rules-on-multi-server-web-based-morpg-system/</link>
+      <pubDate>Mon, 23 Apr 2012 16:31:49 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/dynamic-reallocation-rules-on-multi-server-web-based-morpg-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load Distribution by using Web Workers for a Real Time Web Application</title>
+      <link>https://mkohana.github.io/publication/load-distribution-by-using-web-workers-for-a-real-time-web-application/</link>
+      <pubDate>Mon, 23 May 2011 16:57:22 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/load-distribution-by-using-web-workers-for-a-real-time-web-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a Dynamic Data Allocation Method for Web-Based Multi-Server MORPG System</title>
+      <link>https://mkohana.github.io/publication/evaluation-of-a-dynamic-data-allocation-method-for-web-based-multi-server-morpg-system/</link>
+      <pubDate>Wed, 01 Dec 2010 16:46:25 +0900</pubDate>
+      
+      <guid>https://mkohana.github.io/publication/evaluation-of-a-dynamic-data-allocation-method-for-web-based-multi-server-morpg-system/</guid>
       <description></description>
     </item>
     

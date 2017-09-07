@@ -14,15 +14,15 @@ weight = 60
 
 +++
 
-### Seikei University
-#### Current
-- Fundamental Programming Experiment
-- Advanced Programmingu
-- Advanced Programmingu Experiment
+### Current
 
-#### Past
+### Past
+#### Seikei University
+- Advanced Programming, 2015-2016
+- Advanced Programming Experiment, 2013-2016
 - Java Programming, 2013-2015
 - Java Programming Experiment, 2013-2015
+- Fundamental Programming Experiment, 2012-2016
 - Fundamental Programming, 2013-2014
 - Regular Programming Experiment, 2012
 

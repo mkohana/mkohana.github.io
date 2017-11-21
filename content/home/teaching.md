@@ -15,6 +15,8 @@ weight = 60
 +++
 
 ### Current
+#### Ibaraki University
+- Data Analysis, 2017
 
 ### Past
 #### Seikei University

@@ -1,142 +1,68 @@
-baseurl = "https://mkohana.github.io/"
-title = "Masaki Kohana"
-copyright = "&copy; 2016 Masaki Kohana"
-theme = "academic"
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-publishDir = "public"
+baseURL = "/"
 
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "M.Kohana Page"
+theme = "docdock"
+# themesdir = "../.."
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
 
-# Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-89680703-1"
-
-# Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
 
-[blackfriday]
-  hrefTargetBlank = true
+
+# [Languages]
+# [Languages.en]
+# title = "Documentation for Hugo docDock"
+# weight = 1
+# languageName = "English"
+# 
+# [Languages.fr]
+# title = "Documentation du thème docDock"
+# weight = 2
+# languageName = "Français"
+
+
+
 
 [params]
-  name = "Masaki Kohana"
-  role = "Assistant Professor"
-  organization = "Ibaraki University"
-  avatar = "portrait.jpg"
-  email = "masaki.kohana.gopher@vc.ibaraki.ac.jp"
-  address = "Building S1 Room 812, Ibaraki University, 4-12-1, Nakanarusawa, Hitachi, Ibaraki, Japan"
-  office_hours = ""
-  phone = ""
-  skype = ""
+editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+showVisitedLinks = true # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
 
-  # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = ""
-
-  # Date format (refer to Go's date format: http://flippinggodateformat.com )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Mon, Jan 2, 2006"
-
-  # Enable global LaTeX math rendering?
-  #   If false, you can enable it locally on a per page basis.
-  math = false
-
-  # Enable native social sharing buttons?
-  sharing = true
-
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  custom_css = []
-  custom_js  = []
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
 
 
-  # Social/Academic Networking
-  #
-  # Icon pack "fa" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fa" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
-  #
-  # Icon pack "ai" includes the following academic network icons:
-  #
-  #   google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
-
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:masaki.kohana.gopher@vc.ibaraki.ac.jp"
-
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/GeorgeCushen"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?hl=ja&user=x1sI1CEAAAAJ"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/mkohana"
-
-  [[params.social]]
-    icon = "facebook"
-    icon_pack = "fa"
-    link = "//www.facebook.com/mkohana"
-
-
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
-[[menu.main]]
-  name = "Home"
-  url = "#about"
-  weight = 1
-
-[[menu.main]]
-  name = "Activity"
-  url = "#activity"
-  weight = 2
-
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
-
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 6
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 7
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 8
-
-# Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
-
-# Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
+#[[menu.shortcuts]]
+#pre = "<h3>More</h3>"
+#name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+#identifier = "ds"
+#url = "https://github.com/vjeantet/hugo-theme-docdock"
+#weight = 10
+#
+#[[menu.shortcuts]]
+#name = "<i class='fa fa-cloud-download'></i> <label>Download</label>"
+#url = "https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip"
+#weight = 11
+#
+#[[menu.shortcuts]]
+#name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"
+#identifier = "hugodoc"
+#url = "https://gohugo.io/"
+#weight = 20
+#
+#[[menu.shortcuts]]
+#name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
+#url = "/credits"
+#weight = 30

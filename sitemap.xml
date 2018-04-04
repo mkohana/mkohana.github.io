@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/cv/about/</loc>
+    <loc>/cv/bio/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +29,10 @@
   <url>
     <loc>/cv/teaching/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/</loc>
   </url>
   
   <url>

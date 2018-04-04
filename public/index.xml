@@ -13,10 +13,10 @@
     
     <item>
       <title>Biography</title>
-      <link>/cv/about/</link>
+      <link>/cv/bio/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/cv/about/</guid>
+      <guid>/cv/bio/</guid>
       <description>Biography Masaki Kohana is an assistant professor at Ibaraki University from Feb 2017. He was an assistant professor at Department of Computer and Information Science, Seikei Univeristy from Apr 2013 to Jan 2017. His research interests includes web-based systems, parallel and distributed systems, and text mining.
 He is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.
 Research Interests  Web System Parallel and Distributed System Text Mining  Education  Ph.</description>

@@ -30,6 +30,13 @@ He is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.
 * M.Eng, Seikei University (Mar, 2010)
 * B.Eng, Seikei University (Mar, 2008)
 
+### Association Memberships
+
+* ACM (Jun, 2012 - )
+* IEEE Computer Society (Mar, 2012 - )
+* IEICE (Dec, 2010 - )
+* IPSJ (Apr, 2011 - )
+
 ### Job Record
 
 * Assistant Professor  

@@ -1,10 +1,10 @@
 [
 {
-	"uri": "/cv/about/",
+	"uri": "/cv/bio/",
 	"title": "Biography",
 	"tags": [],
 	"description": "",
-	"content": " Biography Masaki Kohana is an assistant professor at Ibaraki University from Feb 2017. He was an assistant professor at Department of Computer and Information Science, Seikei Univeristy from Apr 2013 to Jan 2017. His research interests includes web-based systems, parallel and distributed systems, and text mining.\nHe is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.\nResearch Interests  Web System Parallel and Distributed System Text Mining  Education  Ph.D in Science Technology, Seikei University (Mar, 2013) M.Eng, Seikei University (Mar, 2010) B.Eng, Seikei University (Mar, 2008)  Job Record  Assistant Professor\nCollege of Engineering Common Section, Ibaraki University (Feb, 2017 -) Assistant Professor\nFaculty of Science and Technology, Department of Computer and Information Science\nSeikei Univeristy (Apr, 2013 - Jan, 2017) Part Time Lecture\nFaculty of Science and Technology, Department of Computer and Information Science\nSeikei Univeristy (Apr, 2012 - Mar, 2013)  "
+	"content": " Biography Masaki Kohana is an assistant professor at Ibaraki University from Feb 2017. He was an assistant professor at Department of Computer and Information Science, Seikei Univeristy from Apr 2013 to Jan 2017. His research interests includes web-based systems, parallel and distributed systems, and text mining.\nHe is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.\nResearch Interests  Web System Parallel and Distributed System Text Mining  Education  Ph.D in Science Technology, Seikei University (Mar, 2013) M.Eng, Seikei University (Mar, 2010) B.Eng, Seikei University (Mar, 2008)  Association Memberships  ACM (Jun, 2012 - ) IEEE Computer Society (Mar, 2012 - ) IEICE (Dec, 2010 - ) IPSJ (Apr, 2011 - )  Job Record  Assistant Professor\nCollege of Engineering Common Section, Ibaraki University (Feb, 2017 -) Assistant Professor\nFaculty of Science and Technology, Department of Computer and Information Science\nSeikei Univeristy (Apr, 2013 - Jan, 2017) Part Time Lecture\nFaculty of Science and Technology, Department of Computer and Information Science\nSeikei Univeristy (Apr, 2012 - Mar, 2013)  "
 },
 {
 	"uri": "/cv/",
@@ -18,7 +18,7 @@
 	"title": "M.Kohana Page",
 	"tags": [],
 	"description": "",
-	"content": " M.Kohana Page  CV   Journal Paper   "
+	"content": " M.Kohana Page  CV   Journal Paper   Conference Paper   "
 },
 {
 	"uri": "/cv/activity/",
@@ -40,6 +40,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Current Ibaraki University  Data Analysis, 2017  Past Seikei University  Advanced Programming, 2015-2016 Advanced Programming Experiment, 2013-2016 Java Programming, 2013-2015 Java Programming Experiment, 2013-2015 Fundamental Programming Experiment, 2012-2016 Fundamental Programming, 2013-2014 Regular Programming Experiment, 2012  "
+},
+{
+	"uri": "/conference/",
+	"title": "Conference Paper",
+	"tags": [],
+	"description": "",
+	"content": " Masaki Kohana, Shusuke Okamoto,\n\u0026ldquo;A Data Sharing Method Using WebRTC for Web-Based Virtual World,\u0026rdquo;\nThe 6th International Conference on Emerging Internet, Data \u0026amp; Web Technologies (EIDWT-2018),\npp. 880 - 888, (Mar, 2018)  "
 },
 {
 	"uri": "/cv/contact/",

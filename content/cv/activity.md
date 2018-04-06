@@ -17,4 +17,7 @@ weight = 2
 * Special Section on Cyberworlds, IEICE Transactions on Information & Systems, Editing Secretary, 2016
 
 ## Award
+* IDRユーザフォーラム2017 企業賞「Sansan株式会社」
+
 * Best Paper Award, The 18th International Conference on Network-Based Information Systems (NBiS2015) Workshop, 2015.09
+

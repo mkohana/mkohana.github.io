@@ -9,7 +9,12 @@ weight = 3
 
 ### Current
 #### Ibaraki University
-- Data Analysis, 2017
+##### Master
+- Data Analysis, 2017-
+
+##### Bachelor
+- Information Skill, 2018-
+- Mathematical Analysis, BigData Strategy
 
 ### Past
 #### Seikei University

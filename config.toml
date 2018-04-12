@@ -43,6 +43,17 @@ enableGitInfo = true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+[[menu.shortcuts]]
+name = "<i class='fa fa-github'></i> <label>Github</label>"
+identifier = "github"
+url = "https://github.com/mkohana"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-google'></i> <label>Google Scholar</label>"
+identifier = "scholar"
+url = "https://scholar.google.co.jp/citations?user=x1sI1CEAAAAJ&hl=en"
+weight = 11
 
 #[[menu.shortcuts]]
 #pre = "<h3>More</h3>"

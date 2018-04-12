@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV on M.Kohana Page</title>
+    <link>/cv/</link>
+    <description>Recent content in CV on M.Kohana Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biography</title>
+      <link>/cv/bio/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/bio/</guid>
+      <description>Biography Masaki Kohana is an assistant professor at Ibaraki University from Feb 2017. He was an assistant professor at Department of Computer and Information Science, Seikei Univeristy from Apr 2013 to Jan 2017. His research interests includes web-based systems, parallel and distributed systems, and text mining.
+He is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.
+Research Interests  Web System Parallel and Distributed System Text Mining  Education  Ph.</description>
+    </item>
+    
+    <item>
+      <title>Activity</title>
+      <link>/cv/activity/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/activity/</guid>
+      <description>Society  International Workshop on Web Services and Social Media  Co-Chair, 2015-2016 Program Committee Member, 2013-2014  The 17th International Conference on Network-Based Information Systems (NBiS2014) Program Committee Member IEICE ISS Cyberworlds (Type-2 Technical Group) (Link:Japanese) , Secretary, 2014-present Special Section on Cyberworlds, IEICE Transactions on Information &amp;amp; Systems, Editing Secretary, 2016  Award  IDRユーザフォーラム2017 企業賞「Sansan株式会社」
+ Best Paper Award, The 18th International Conference on Network-Based Information Systems (NBiS2015) Workshop, 2015.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/cv/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/teaching/</guid>
+      <description> Current Ibaraki University Master  Data Analysis, 2017-  Bachelor  Information Skill, 2018- Mathematical Analysis, BigData Strategy  Past Seikei University  Advanced Programming, 2015-2016 Advanced Programming Experiment, 2013-2016 Java Programming, 2013-2015 Java Programming Experiment, 2013-2015 Fundamental Programming Experiment, 2012-2016 Fundamental Programming, 2013-2014 Regular Programming Experiment, 2012  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/cv/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/contact/</guid>
+      <description>Address Building S1 Room 812, Ibaraki University
+Nakanarusawa 4-12-1, Hitachi, Ibaraki, Japan, 316-8511
+E-mail masaki.kohana.gopher [at] vc.ibaraki.ac.jp</description>
+    </item>
+    
+  </channel>
+</rss>

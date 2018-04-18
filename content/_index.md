@@ -7,6 +7,17 @@ alwaysopen = true
 
 ## NEWS
 
+### WSSM-2018
+The 7th International Workshop on Web Services and Social Media (WSSM-2018)
+
+- Paper Submission Deadline : June 1, 2018
+- Author Notification : June 10, 2018
+- Final Manuscript Due: June 25, 2018
+- Author Registration : June 25, 2018
+- Workshop dates: September 5-7, 2018
+
+https://sites.google.com/site/iwwssm/
+
 ### 第39回サイバーワールド研究会
 第39回サイバーワールド研究会のCFPを公開しました。
 

@@ -24,7 +24,7 @@ https://sites.google.com/site/iwwssm/
 日時　　：6月20日（水）  
 発表申込：5月23日（水）  
 原稿締切：6月 6日（水）  
-会場　　：NHK総合技術研究所  
+会場　　：NHK放送技術研究所  
 テーマ　：スポーツのICT利活用
 
 http://www.ieice.org/iss/cw/jpn/cwws39.html

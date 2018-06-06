@@ -89,7 +89,7 @@ pp. 112 - 117, (Mar 2015)
 Sphero Control System using a Web Browser,  
 The 3rd International Workshop on Web Services and Social Media (WSSM-2014),  
 in conjunction with the 17th International Conference on Network-Based Information Systems
-(NBiS-2016),  
+(NBiS-2014),  
 pp. 606 - 610, (Sep, 2014)
 
 1. Shusuke Okamoto, Masaki Kohana, Masaru Kamada, Tatsuhiro Yonekura,  
@@ -102,14 +102,14 @@ pp. 639 - 643, (Dec, 2013)
 A Parallelization of Interactive Animation Software with Web Workers,  
 The 2nd International Workshop on Web Services and Social Media (WSSM-2013),  
 in conjunction with the 16th International Conference on Network-Based Information Systems
-(NBiS-2017),  
+(NBiS-2013),  
 pp. 448 - 452, (Sep, 2013)
 
 1. Masaki Kohana, Shusuke Okamoto, Masaya Kaneko,  
 A Clustering Algorithm Using Twitter User Biography,  
 The 2nd International Workshop on Web Services and Social Media (WSSM-2013),  
 in conjunction with the 16th International Conference on Network-Based Information Systems
-(NBiS-2017),  
+(NBiS-2013),  
 pp. 432 - 435, (Sep, 2013)
 
 1. Masaya Kaneko, Shusuke Okamoto, Masaki Kohana, You Inayoshi,  

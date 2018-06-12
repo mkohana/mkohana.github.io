@@ -28,6 +28,7 @@ https://sites.google.com/site/iwwssm/
 テーマ　：スポーツのICT利活用
 
 http://www.ieice.org/iss/cw/jpn/cwws39.html
+[プログラム](http://www.ieice.org/~cw/jpn/cwws39prg.html)
 
 
 

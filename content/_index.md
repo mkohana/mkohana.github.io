@@ -27,7 +27,7 @@ https://sites.google.com/site/iwwssm/
 会場　　：NHK放送技術研究所  
 テーマ　：スポーツのICT利活用
 
-http://www.ieice.org/iss/cw/jpn/cwws39.html
+[詳細](http://www.ieice.org/iss/cw/jpn/cwws39.html)  
 [プログラム](http://www.ieice.org/~cw/jpn/cwws39prg.html)
 
 

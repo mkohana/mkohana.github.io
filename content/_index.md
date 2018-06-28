@@ -7,6 +7,14 @@ alwaysopen = true
 
 ## NEWS
 
+### FIT2018 第17回情報科学技術フォーラム
+2018.9.19(Wed)-21(Fri)  
+福岡工業大学  
+
+[イベント企画『ITと法、交渉ごと』](
+http://gakkai-web.net/fit/program_web/event_A-4.html
+)
+
 ### WSSM-2018
 The 7th International Workshop on Web Services and Social Media (WSSM-2018)
 

@@ -114,8 +114,9 @@ pp. 432 - 435, (Sep, 2013)
 
 1. Masaya Kaneko, Shusuke Okamoto, Masaki Kohana, You Inayoshi,  
 Document Classification Based on Web Search Hit Counts,  
-The 14th International Conference on Information Integration and Web-Based Applications & Services,  
-(iiWAS-2012), pp. 223 - 228, (Dec, 2012)
+The 14th International Conference on Information Integration and Web-Based Applications & Services,
+(iiWAS-2012),   
+pp. 223 - 228, (Dec, 2012)
 
 1. Masaki Kohana, Shusuke Okamoto, Atsuko Ikegami,  
 Optimal Data Allocation for Keeping Fairness of Online Game,  

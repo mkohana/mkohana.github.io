@@ -55,6 +55,12 @@ identifier = "scholar"
 url = "https://scholar.google.co.jp/citations?user=x1sI1CEAAAAJ&hl=en"
 weight = 11
 
+[[menu.shortcuts]]
+name = "<i class='fa fa-pie-chart'></i><label>DBLP</label>"
+identifier = "dblp"
+url = "https://dblp.org/pers/hd/k/Kohana:Masaki"
+weight = 9
+
 #[[menu.shortcuts]]
 #pre = "<h3>More</h3>"
 #name = "<i class='fa fa-github'></i> <label>Github repo</label>"

@@ -5,6 +5,12 @@ weight = 4
 alwaysopen = true
 +++
 
+1. Masaki Kohana, Hiroki Sakaji, Akio Kobayashi,  
+A Parallel Calculation Method on Web Browser fro Contents Categorization,  
+The 32nd International Conference on Advanced Information Networking and Applications Workshops
+(WAINA-2018),  
+pp. 40 - 44, (May, 2018)
+
 1. Masaki Kohana, Shusuke Okamoto,  
 A Data Sharing Method Using WebRTC for Web-Based Virtual World,  
 The 6th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2018),  

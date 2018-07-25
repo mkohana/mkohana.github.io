@@ -5,7 +5,7 @@ weight = 4
 alwaysopen = true
 +++
 
-1. Masaki Kohana, Hiroki Sakaji, Akio Kobayashi,  
+1. Masaki Kohana, Hiroki Sakaji, Akio Kobayashi, Shusuke Okamoto,  
 A Parallel Calculation Method on Web Browser fro Contents Categorization,  
 The 32nd International Conference on Advanced Information Networking and Applications Workshops
 (WAINA-2018),  

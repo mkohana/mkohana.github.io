@@ -6,6 +6,26 @@ alwaysopen = true
 +++
 
 1. Masaki Kohana, Shusuke Okamoto,  
+A Location-Based Web Browser Network for Virtual Worlds,  
+The 7th International Workshop on Web Services and Social Media (WSSM-2018),  
+in conjunction with the 21th International Conference on Network-Based Information Systems
+(NBiS-2018),  
+pp. 929 - 936, (Sep, 2018)
+
+1. Shotaro Naiki, Masaki Kohana, Shusuke Okamoto, Masaru Kamada,  
+A Graphical Front-End Interface for React.js,  
+The 7th International Workshop on Web Services and Social Media (WSSM-2018),  
+in conjunction with the 21th International Conference on Network-Based Information Systems
+(NBiS-2018),  
+pp. 887 - 896, (Sep, 2018)
+
+1. Masaki Kohana, Hiroki Sakaji, Akio Kobayashi, Shusuke Okamoto,  
+A Parallel Calculation Method on Web Browser for Contents Categorization,  
+The 32th International Conference on Advanced Information Networking and Applications Workshop
+(WAINA-2018),  
+pp. 40 - 44, (May, 2018)
+
+1. Masaki Kohana, Shusuke Okamoto,  
 A Data Sharing Method Using WebRTC for Web-Based Virtual World,  
 The 6th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2018),  
 pp. 880 - 888, (Mar, 2018)

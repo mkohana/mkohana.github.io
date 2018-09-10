@@ -5,6 +5,12 @@ weight = 4
 alwaysopen = true
 +++
 
+1. Masaki Kohana, Hiroki Sakaji, Akio Kobayashi, Shusuke Okamoto,  
+A Parallel Calculation Method on Web Browser fro Contents Categorization,  
+The 32nd International Conference on Advanced Information Networking and Applications Workshops
+(WAINA-2018),  
+pp. 40 - 44, (May, 2018)
+
 1. Masaki Kohana, Shusuke Okamoto,  
 A Location-Based Web Browser Network for Virtual Worlds,  
 The 7th International Workshop on Web Services and Social Media (WSSM-2018),  

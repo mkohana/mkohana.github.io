@@ -21,3 +21,6 @@ weight = 2
 
 * Best Paper Award, The 18th International Conference on Network-Based Information Systems (NBiS2015) Workshop, 2015.09
 
+# Reaearch Grant
+* 海外渡航旅費援助, 公益財団法人電気通信普及財団,
+The 6th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2018), 2018

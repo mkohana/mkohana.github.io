@@ -7,15 +7,15 @@ alwaysopen = true
 
 ## NEWS
 
-### 第40回サイバーワールド研究会
-第40回サイバーワールド研究会のCFPを公開しました。
+### 第41回サイバーワールド研究会
+第41回サイバーワールド研究会のCFPを公開しました。
 
 日時　　：3月1日（金）  
 発表申込：2月8日（金）  
 原稿締切：2月18日（月）  
 会場　　：NEC玉川事業場ルネッサンスビルS棟会議室  
-[アクセス](https://jpn.nec.com/profile/branch/tamagawa.html)
-テーマ　：表現のためのサイバーワールドおよび一般
+[アクセス](https://jpn.nec.com/profile/branch/tamagawa.html)  
+テーマ　：表現のためのサイバーワールドおよび一般  
 
 [詳細](https://www.ieice.org/~cw/jpn/cwws41.html)
 

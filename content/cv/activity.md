@@ -13,6 +13,8 @@ weight = 2
     * Co-Chair, 2015-2016
     * Program Committee Member, 2013-2014
 * The 17th International Conference on Network-Based Information Systems (NBiS2014) Program Committee Member
+* The 33rd International Conference on Advanced Information Networking and Applications (AINA2019)
+  Program Committee Member
 * IEICE ISS Cyberworlds (Type-2 Technical Group) ([Link:Japanese](http://www.ieice.org/iss/cw/jpn/)) , Secretary, 2014-present
 * Special Section on Cyberworlds, IEICE Transactions on Information & Systems, Editing Secretary, 2016
 

@@ -10,7 +10,7 @@ weight = 2
 ## Society
 
 * International Workshop on Web Services and Social Media
-    * Co-Chair, 2015-2016
+    * Co-Chair, 2015-current
     * Program Committee Member, 2013-2014
 * The 17th International Conference on Network-Based Information Systems (NBiS2014) Program Committee Member
 * The 33rd International Conference on Advanced Information Networking and Applications (AINA2019)

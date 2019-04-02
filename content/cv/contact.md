@@ -9,9 +9,7 @@ weight = 4
 +++
 
 ##### Address
-Building S1 Room 812, Ibaraki University  
-Nakanarusawa 4-12-1, Hitachi, Ibaraki, Japan, 316-8511
+Ichigaya-Tamachi 1-18, Shinjuku, Tokyo, Japan
 
 ##### E-mail
-masaki.kohana.gopher [at] vc.ibaraki.ac.jp
-
+kohana [at] tamacc.chuo-u.ac.jp

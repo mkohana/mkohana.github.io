@@ -9,10 +9,9 @@ weight = 1
 +++
 
 ### Biography
+Masaki Kohana, Ph.D  
+iTL, Faculty of Global Informatics, Chuo University  
 
-Masaki Kohana is an assistant professor at Ibaraki University from Feb 2017.
-He was an assistant professor at Department of Computer and Information Science, Seikei Univeristy
-from Apr 2013 to Jan 2017.
 His research interests includes web-based systems, parallel and distributed systems,
 and text mining.
 
@@ -39,8 +38,10 @@ He is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.
 
 ### Job Record
 
+* Associate Proffessor
+iTL, Faculty of Global Informatics, Chuo University (Apr, 2019 -)
 * Assistant Professor  
-College of Engineering Common Section, Ibaraki University (Feb, 2017 -)
+College of Engineering Common Section, Ibaraki University (Feb, 2017 - Mar, 2019)
 * Assistant Professor  
 Faculty of Science and Technology, Department of Computer and Information Science  
 Seikei Univeristy (Apr, 2013 - Jan, 2017)

@@ -5,6 +5,17 @@ weight = 4
 alwaysopen = true
 +++
 
+1. Hiroki Sakaji, Akio Kobayashi, Masaki Kohana, Yasunao Takano, Kiyoshi Izumi,  
+Estimation of Tags Using Various Data for Online Videos,  
+The 33rd International Conference on
+Advanced Information Networking and Applications (AINA-2019),  
+pp.301 - 312, (Mar, 2019)
+
+1. Yasunao Takano, Yusuke Iijima, Kou Kobayashi,
+Hiroshi Sakuta, Hiroki Sakaji, Masaki Kohana, Akio Kobayashi,  
+Improving Document Similarity Calculation Using Cosine-Similarity Graphs,  
+The 33rd International Conference on Advanced Information Networking and Applications (AINA-2019),  
+pp.512 - 522, (Mar, 2019)
 
 1. Masaki Kohana, Shusuke Okamoto,  
 A Location-Based Web Browser Network for Virtual Worlds,  

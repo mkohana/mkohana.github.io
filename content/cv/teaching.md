@@ -8,15 +8,17 @@ weight = 3
 +++
 
 ### Current
+#### Chuo University
+
 #### Ibaraki University
 ##### Master
 - Data Analysis, 2017-
 - Mathematical Analysis, BigData Strategy, 2018-
 
-##### Bachelor
-- Information Skill, 2018-
 
 ### Past
+#### Ibaraki University
+- Information Skill, 2018
 #### Seikei University
 - Advanced Programming, 2015-2016
 - Advanced Programming Experiment, 2013-2016

@@ -17,9 +17,11 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/cv/bio/</guid>
-      <description>Biography Masaki Kohana is an assistant professor at Ibaraki University from Feb 2017. He was an assistant professor at Department of Computer and Information Science, Seikei Univeristy from Apr 2013 to Jan 2017. His research interests includes web-based systems, parallel and distributed systems, and text mining.
+      <description>Biography Masaki Kohana, Ph.D
+iTL, Faculty of Global Informatics, Chuo University
+His research interests includes web-based systems, parallel and distributed systems, and text mining.
 He is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.
-Research Interests  Web System Parallel and Distributed System Text Mining  Education  Ph.</description>
+Research Interests  Web System Parallel and Distributed System Text Mining  Education  Ph.D in Science Technology, Seikei University (Mar, 2013) M.Eng, Seikei University (Mar, 2010) B.Eng, Seikei University (Mar, 2008)  Association Memberships  ACM (Jun, 2012 - ) IEEE Computer Society (Mar, 2012 - ) IEICE (Dec, 2010 - ) IPSJ (Apr, 2011 - )  Job Record  Associate Proffessor iTL, Faculty of Global Informatics, Chuo University (Apr, 2019 -) Assistant Professor</description>
     </item>
     
     <item>
@@ -37,7 +39,15 @@ Research Interests  Web System Parallel and Distributed System Text Mining  Educ
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/cv/teaching/</guid>
-      <description> Current Ibaraki University Master  Data Analysis, 2017- Mathematical Analysis, BigData Strategy, 2018-  Bachelor  Information Skill, 2018-  Past Seikei University  Advanced Programming, 2015-2016 Advanced Programming Experiment, 2013-2016 Java Programming, 2013-2015 Java Programming Experiment, 2013-2015 Fundamental Programming Experiment, 2012-2016 Fundamental Programming, 2013-2014 Regular Programming Experiment, 2012  </description>
+      <description> Current Chuo University Ibaraki University Master  Data Analysis, 2017- Mathematical Analysis, BigData Strategy, 2018-  Past Ibaraki University  Information Skill, 2018
+Seikei University Advanced Programming, 2015-2016
+ Advanced Programming Experiment, 2013-2016
+ Java Programming, 2013-2015
+ Java Programming Experiment, 2013-2015
+ Fundamental Programming Experiment, 2012-2016
+ Fundamental Programming, 2013-2014
+ Regular Programming Experiment, 2012
+  </description>
     </item>
     
     <item>
@@ -46,9 +56,8 @@ Research Interests  Web System Parallel and Distributed System Text Mining  Educ
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/cv/contact/</guid>
-      <description>Address Building S1 Room 812, Ibaraki University
-Nakanarusawa 4-12-1, Hitachi, Ibaraki, Japan, 316-8511
-E-mail masaki.kohana.gopher [at] vc.ibaraki.ac.jp</description>
+      <description>Address Ichigaya-Tamachi 1-18, Shinjuku, Tokyo, Japan
+E-mail kohana [at] tamacc.chuo-u.ac.jp</description>
     </item>
     
   </channel>

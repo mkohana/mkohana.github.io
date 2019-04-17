@@ -28,6 +28,7 @@ weight = 3
 ### Past
 #### Ibaraki University
 - Information Skill, 2018
+
 #### Seikei University
 - Advanced Programming, 2015-2016
 - Advanced Programming Experiment, 2013-2016

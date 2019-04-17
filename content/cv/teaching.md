@@ -9,12 +9,21 @@ weight = 3
 
 ### Current
 #### Chuo University
+##### Faculty of Global Informatics
+- Programming, 2019-
+- Introductory Seminar, 2019-
+
+##### Faculty of Letters, Socio Informatics
+- Information System Design, 2019
+- Information System Development, 2019
+
+##### Faculty of Policy Studies
+- Information Networks, 2019
 
 #### Ibaraki University
 ##### Master
 - Data Analysis, 2017-
 - Mathematical Analysis, BigData Strategy, 2018-
-
 
 ### Past
 #### Ibaraki University

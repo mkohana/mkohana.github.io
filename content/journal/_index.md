@@ -5,6 +5,18 @@ weight = 3
 alwaysopen = true
 +++
 
+1. Masaki Kohana, Shusuke Okamoto,  
+A Web Platform for Oral Exam of Programming Class,  
+International Journal of Grid and Utility Computing,
+Vol. 10, No. 3, pp. 265 - 271, 2019  
+DOI: 10.1504/IJGUC.2019.099665
+
+1. Hiroki Sakaji, Masaki Kohana, Akio Kobayashi, Hiroyuki Sakai,  
+Enriching Folksonomy for Online Videos,  
+International Journal of Grid and Utility Computing,
+Vol. 10, No. 3, pp. 258 - 264, 2019  
+DOI: 10.1504/IJGUC.2019.099664
+
 1. Hironori Harada, Masaki Kohana, Shusuke Okamoto,  
 Food Truck Scheduling Model,  
 International Journal of Space-Based and Situated Computing,

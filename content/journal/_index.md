@@ -5,6 +5,11 @@ weight = 3
 alwaysopen = true
 +++
 
+1. Masaki Kohana, Hiroki Sakaji, Akio Kobayashi, Shusuke Okamoto,  
+File Assignment Control for a Web System of Contents Categorization,  
+Transaction on Computational Collective Intelligence,
+Vol. 33, Springer, pp. 89-102, 2019
+
 1. Masaki Kohana, Shusuke Okamoto,  
 A Web Platform for Oral Exam of Programming Class,  
 International Journal of Grid and Utility Computing,

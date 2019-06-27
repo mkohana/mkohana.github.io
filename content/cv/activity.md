@@ -19,9 +19,14 @@ weight = 2
 * Special Section on Cyberworlds, IEICE Transactions on Information & Systems, Editing Secretary, 2016
 
 ## Award
-* IDRユーザフォーラム2017 企業賞「Sansan株式会社」
+* IDRユーザフォーラム2017 企業賞「Sansan株式会社」  
+坂地泰紀, 小林暁雄, 小花聖輝,  
+動画サイトのコメントを用いたタグ推定に関する研究,  
+IDRユーザフォーラム2017, ポスター発表, (Dec, 2017)
 
-* Best Paper Award, The 18th International Conference on Network-Based Information Systems (NBiS2015) Workshop, 2015.09
+* Best Paper Award, The 18th International Conference on Network-Based Information Systems (NBiS2015) Workshop, 2015.09  
+Masaki Kohana, Shusuke Okamoto,  
+A System for Confirming Attendance at Work
 
 # Reaearch Grant
 * 海外渡航旅費援助, 公益財団法人電気通信普及財団,

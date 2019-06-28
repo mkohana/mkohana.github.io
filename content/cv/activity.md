@@ -18,7 +18,7 @@ weight = 2
 * The 14th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing
   (3PGCIC-2019), Track Co-Chair
   Program Committee Member
-* IEICE ISS Cyberworlds (Type-2 Technical Group) ([Link:Japanese](http://www.ieice.org/iss/cw/jpn/)) , Secretary, 2014-present
+* IEICE ISS Cyberworlds (Type-2 Technical Group) ([Link:Japanese](http://www.ieice.org/iss/cw/jpn/)) , Secretary, 2014-current
 * Special Section on Cyberworlds, IEICE Transactions on Information & Systems, Editing Secretary, 2016
 
 ## Award

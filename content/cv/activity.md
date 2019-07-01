@@ -17,9 +17,9 @@ weight = 2
   Program Committee Member
 * The 14th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing
   (3PGCIC-2019), Track Co-Chair
-  Program Committee Member
-* IEICE ISS Cyberworlds (Type-2 Technical Group) ([Link:Japanese](http://www.ieice.org/iss/cw/jpn/)) , Secretary, 2014-current
-* Special Section on Cyberworlds, IEICE Transactions on Information & Systems, Editing Secretary, 2016
+* 電子情報通信学会 サイバーワールド特別研究専門委員会([Link:Japanese](http://www.ieice.org/iss/cw/jpn/)), 幹事, 2014-current
+* 電子情報通信学会 和文論文誌D, サイバーワールド特集号, 編集幹事, 2016
+* 第18回情報科学技術フォーラム (FIT2019), 研究会担当委員
 
 ## Award
 * IDRユーザフォーラム2017 企業賞「Sansan株式会社」  

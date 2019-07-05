@@ -5,6 +5,11 @@ weight = 3
 alwaysopen = true
 +++
 
+1. Masaki Kohana, Shinji Sakamoto, Shusuke Okamoto,  
+Web Browser Network Based on a BA Model for a Web-Based Virtual World,  
+Future Internet, Vol. 11, No. 7, 147, 2019  
+DOI: 10.3390/fi11070147
+
 1. Masaki Kohana, Hiroki Sakaji, Akio Kobayashi, Shusuke Okamoto,  
 File Assignment Control for a Web System of Contents Categorization,  
 Transaction on Computational Collective Intelligence,

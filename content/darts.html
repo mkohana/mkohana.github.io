@@ -20,6 +20,7 @@ span.choice {
     <h1 id="result"></h1>
     <button id="gen">Generate</button>
     <hr>
+    <div id="bull"></div>
     <div id="single"></div>
     <div id="double"></div>
     <div id="triple"></div>
@@ -62,6 +63,11 @@ span.choice {
         return 0;
       }
 
+      b = document.createElement("button");
+      b.innerHTML = "BULL";
+      b.value = 50;
+      b.addEventListener("click", selectNum);
+      document.getElementById("bull").appendChild(b);
       for (i=1; i<=20; i++) {
         b = document.createElement("button");
         b.innerHTML = "S" + i;

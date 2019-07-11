@@ -74,7 +74,7 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": "   span.choice { font-size:xx-large; }           Generate      var t = 0; var count = 0; var select = new Array(3); g = document.getElementById(\"gen\"); g.addEventListener(\"click\", function(e) { t = Math.round(Math.random() * 177 + 3); document.getElementById(\"target\").innerHTML = t; count = 0; select = new Array(3); document.getElementById(\"c1\").innerHTML = \"\"; document.getElementById(\"c2\").innerHTML = \"\"; document.getElementById(\"c3\").innerHTML = \"\"; document.getElementById(\"result\").innerHTML = \"\"; return 0; }); function selectNum(e) { v = e.target.value; select[count] = v; count++; document.getElementById(\"c\" + count).innerHTML = v; if (count == 3) { sum = 0; for (i=0; i  "
+	"content": "   span.choice { font-size:xx-large; }           Generate       var t = 0; var count = 0; var select = new Array(3); g = document.getElementById(\"gen\"); g.addEventListener(\"click\", function(e) { t = Math.round(Math.random() * 177 + 3); document.getElementById(\"target\").innerHTML = t; count = 0; select = new Array(3); document.getElementById(\"c1\").innerHTML = \"\"; document.getElementById(\"c2\").innerHTML = \"\"; document.getElementById(\"c3\").innerHTML = \"\"; document.getElementById(\"result\").innerHTML = \"\"; return 0; }); function selectNum(e) { v = e.target.value; select[count] = v; count++; document.getElementById(\"c\" + count).innerHTML = v; if (count == 3) { sum = 0; for (i=0; i  "
 },
 {
 	"uri": "/categories/",

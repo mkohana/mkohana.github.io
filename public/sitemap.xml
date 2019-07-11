@@ -49,6 +49,11 @@
   </url>
   
   <url>
+    <loc>/darts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>

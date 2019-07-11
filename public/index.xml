@@ -52,5 +52,14 @@ Research Interests  Web System Parallel and Distributed System Text Mining  Educ
 E-mail kohana [at] tamacc.chuo-u.ac.jp</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/darts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/darts/</guid>
+      <description>span.choice { font-size:xx-large; }           Generate      var t = 0; var count = 0; var select = new Array(3); g = document.getElementById(&#34;gen&#34;); g.addEventListener(&#34;click&#34;, function(e) { t = Math.round(Math.random() * 177 + 3); document.getElementById(&#34;target&#34;).innerHTML = t; count = 0; select = new Array(3); document.getElementById(&#34;c1&#34;).innerHTML = &#34;&#34;; document.getElementById(&#34;c2&#34;).innerHTML = &#34;&#34;; document.getElementById(&#34;c3&#34;).innerHTML = &#34;&#34;; document.getElementById(&#34;result&#34;).innerHTML = &#34;</description>
+    </item>
+    
   </channel>
 </rss>

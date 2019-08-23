@@ -5,6 +5,42 @@ weight = 4
 alwaysopen = true
 +++
 
+1. IMAMA, Masaki Kohana, Masaru Kamada,  
+Web Service for Searching Halal Compliant Restaurants,  
+The 8th International Workshop on Web Services and Social Media (WSSM-2019),  
+in conjunction with the 22th International Conference on Network-Based Information Systems,
+(NBiS-2019),  
+pp. 683-691, (Sep, 2019)
+
+1. Daisuke Tanaka, Masaki Kohana, Michitoshi Niibori,
+Yasuhiro Ohtaki, Shusuke Okamoto, Masaru Kamada,  
+Implementation of Interactive Tutorial for IslayPub by Hooking User Events,  
+The 8th International Workshop on Web Services and Social Media (WSSM-2019),  
+in conjunction with the 22th International Conference on Network-Based Information Systems,
+(NBiS-2019),  
+pp. 692-699, (Sep, 2019)
+
+1. Katsumi Ohkura, Masaki Kohana,  
+A Smart Lock Control System with Home Situation,  
+The 8th International Workshop on Web Services and Social Media (WSSM-2019),  
+in conjunction with the 22th International Conference on Network-Based Information Systems,
+(NBiS-2019),  
+pp. 700-704, (Sep, 2019)
+
+1. Hiroki Sakaji, Akio Kobayashi, Masaki Kohana, Yasunao Takano, Kiyoshi Izumi,  
+Card Price Prediction of Trading Cards Using Machine Learning Methods,  
+The 8th International Workshop on Web Services and Social Media (WSSM-2019),  
+in conjunction with the 22th International Conference on Network-Based Information Systems,
+(NBiS-2019),  
+pp. 705-714, (Sep, 2019)
+
+1. Ryoya Fukutani, Shusuke Okamoto, Shinji Sakamoto, Masaki Kohana,  
+A Real-Time Programming Battle Web Application by Using WebRTC,  
+The 8th International Workshop on Web Services and Social Media (WSSM-2019),  
+in conjunction with the 22th International Conference on Network-Based Information Systems,
+(NBiS-2019),  
+pp. 731-737, (Sep, 2019)
+
 1. Hiroki Sakaji, Akio Kobayashi, Masaki Kohana, Yasunao Takano, Kiyoshi Izumi,  
 Estimation of Tags Using Various Data for Online Videos,  
 The 33rd International Conference on

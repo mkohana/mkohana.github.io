@@ -49,6 +49,11 @@
   </url>
   
   <url>
+    <loc>/news/</loc>
+    <lastmod>2020-01-23T04:07:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/darts/</loc>
     <priority>0</priority>
   </url>

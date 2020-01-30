@@ -12,7 +12,11 @@ weight = 3
 ##### Faculty of Global Informatics
 - Programming, 2019-
 - Introductory Seminar, 2019-
+- Information Fluency, 2019-
+- Global Informatics History (Omnibus), 2019-
 
+### Past
+#### Chuo University
 ##### Faculty of Letters, Socio Informatics
 - Information System Design, 2019
 - Information System Development, 2019
@@ -21,15 +25,15 @@ weight = 3
 - Information Networks, 2019
 
 #### Ibaraki University
-##### Master
-- Data Analysis, 2017-
-- Mathematical Analysis, BigData Strategy, 2018-
+##### Graduate School of Engineering
+- Data Analysis, 2017-2019
+- Mathematical Analysis, BigData Strategy, 2018-2019
 
-### Past
-#### Ibaraki University
+##### Faculty of Engineering
 - Information Skill, 2018
 
 #### Seikei University
+##### Department of Computer and Informatoin Science
 - Advanced Programming, 2015-2016
 - Advanced Programming Experiment, 2013-2016
 - Java Programming, 2013-2015

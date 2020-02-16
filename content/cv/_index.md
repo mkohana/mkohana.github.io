@@ -1,9 +1,9 @@
 +++
 title = "CV"
 description = ""
-weight = 1
+weight = 2
 alwaysopen = true
 +++
 
 
-{{%children style="h4" %}}
+{{% children style="h4" %}}

@@ -1,7 +1,7 @@
 +++
 title = "Books"
 description = ""
-weight = 2
+weight = 1
 alwaysopen = true
 +++
 

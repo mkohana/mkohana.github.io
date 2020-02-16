@@ -5,7 +5,7 @@
     
       <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<meta name="revised" content="2020-01-30T10:51:47 JST">
+<meta name="revised" content="2020-02-16T13:56:45 JST">
 <title>404 Page not found :: M.Kohana Page</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -62,6 +62,12 @@
             <i class="fa fa-fw fa-home"></i>
           </a>
           </li>
+    <li data-nav-id="/news/" class="dd-item
+        ">
+      <div>
+      <a href="/news/">News</a><i class="fa fa-circle-thin read-icon"></i>
+      </div>
+    </li>
     <li data-nav-id="/cv/" class="dd-item alwaysopen haschildren
         ">
       <div>
@@ -99,29 +105,42 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/book/" class="dd-item alwaysopen
+    <li data-nav-id="/publication/" class="dd-item alwaysopen haschildren
         ">
       <div>
-      <a href="/book/">Books</a><i class="fa fa-circle-thin read-icon"></i>
+      <a href="/publication/">Publication</a>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </div>
+        <ul>
+      <li data-nav-id="/publication/book/" class="dd-item">
+        <div>
+          <a href="/publication/book/">
+            Books
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
     </li>
-    <li data-nav-id="/journal/" class="dd-item alwaysopen
-        ">
-      <div>
-      <a href="/journal/">Journal Paper</a><i class="fa fa-circle-thin read-icon"></i>
-      </div>
+      <li data-nav-id="/publication/journal/" class="dd-item">
+        <div>
+          <a href="/publication/journal/">
+            Journal Paper
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
     </li>
-    <li data-nav-id="/conference/" class="dd-item alwaysopen
-        ">
-      <div>
-      <a href="/conference/">Conference Paper</a><i class="fa fa-circle-thin read-icon"></i>
-      </div>
+      <li data-nav-id="/publication/conference/" class="dd-item">
+        <div>
+          <a href="/publication/conference/">
+            Conference Paper
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
     </li>
-    <li data-nav-id="/talk/" class="dd-item alwaysopen
-        ">
-      <div>
-      <a href="/talk/">Talks</a><i class="fa fa-circle-thin read-icon"></i>
-      </div>
+      <li data-nav-id="/publication/talk/" class="dd-item">
+        <div>
+          <a href="/publication/talk/">
+            Talks
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
+    </li>
+        </ul>
     </li>
 
 
@@ -137,6 +156,8 @@
       <center>Navigation : 
         <select onchange="javascript:location.href = this.value;">
           
+    <option value="/news/" >
+   News</option>
     <option value="/cv/" >
    CV</option> 
       <option value="/cv/bio/" >- Biography</option>
@@ -144,17 +165,12 @@
       <option value="/cv/teaching/" >- Teaching</option>
       <option value="/cv/contact/" >- Contact</option>
   
-    <option value="/book/" >
-   Books</option> 
-  
-    <option value="/journal/" >
-   Journal Paper</option> 
-  
-    <option value="/conference/" >
-   Conference Paper</option> 
-  
-    <option value="/talk/" >
-   Talks</option> 
+    <option value="/publication/" >
+   Publication</option> 
+      <option value="/publication/book/" >- Books</option>
+      <option value="/publication/journal/" >- Journal Paper</option>
+      <option value="/publication/conference/" >- Conference Paper</option>
+      <option value="/publication/talk/" >- Talks</option>
   
 
 
@@ -192,7 +208,7 @@
     
         <div class="chevrons">
     <div id="navigation">
-<a class="nav nav-next" href="/cv/" title="CV" style="margin-right: 0px;"><label>CV</label><i class="fa fa-chevron-right"></i></a></div>
+<a class="nav nav-next" href="/news/" title="News" style="margin-right: 0px;"><label>News</label><i class="fa fa-chevron-right"></i></a></div>
   </div>
 
   </section>

@@ -6,4 +6,6 @@ alwaysopen = true
 +++
 
 
+# M.Kohana Page
 
+{{%children page="news"%}}

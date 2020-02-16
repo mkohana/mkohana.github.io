@@ -1,7 +1,7 @@
 +++
 title = "Journal Paper"
 description = ""
-weight = 3
+weight = 2
 alwaysopen = true
 +++
 

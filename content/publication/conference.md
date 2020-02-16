@@ -1,7 +1,7 @@
 +++
 title = "Conference Paper"
 description = ""
-weight = 4
+weight = 3
 alwaysopen = true
 +++
 

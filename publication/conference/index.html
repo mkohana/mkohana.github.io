@@ -5,7 +5,7 @@
     
       <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<meta name="revised" content="2020-02-16T00:59:25 JST">
+<meta name="revised" content="2020-02-16T13:56:45 JST">
 <title>Conference Paper :: M.Kohana Page</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -23,7 +23,7 @@
 
     
   </head>
-  <body data-url="/conference/">
+  <body data-url="/publication/conference/">
     
       <header>
   <div class="logo">
@@ -105,29 +105,42 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/book/" class="dd-item alwaysopen
+    <li data-nav-id="/publication/" class="dd-item parent alwaysopen haschildren
         ">
       <div>
-      <a href="/book/">Books</a><i class="fa fa-circle-thin read-icon"></i>
+      <a href="/publication/">Publication</a>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </div>
+        <ul>
+      <li data-nav-id="/publication/book/" class="dd-item">
+        <div>
+          <a href="/publication/book/">
+            Books
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
     </li>
-    <li data-nav-id="/journal/" class="dd-item alwaysopen
-        ">
-      <div>
-      <a href="/journal/">Journal Paper</a><i class="fa fa-circle-thin read-icon"></i>
-      </div>
+      <li data-nav-id="/publication/journal/" class="dd-item">
+        <div>
+          <a href="/publication/journal/">
+            Journal Paper
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
     </li>
-    <li data-nav-id="/conference/" class="dd-item parent active alwaysopen
-        ">
-      <div>
-      <a href="/conference/">Conference Paper</a><i class="fa fa-circle-thin read-icon"></i>
-      </div>
+      <li data-nav-id="/publication/conference/" class="dd-item active">
+        <div>
+          <a href="/publication/conference/">
+            Conference Paper
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
     </li>
-    <li data-nav-id="/talk/" class="dd-item alwaysopen
-        ">
-      <div>
-      <a href="/talk/">Talks</a><i class="fa fa-circle-thin read-icon"></i>
-      </div>
+      <li data-nav-id="/publication/talk/" class="dd-item">
+        <div>
+          <a href="/publication/talk/">
+            Talks
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
+    </li>
+        </ul>
     </li>
 
 
@@ -152,17 +165,12 @@
       <option value="/cv/teaching/" >- Teaching</option>
       <option value="/cv/contact/" >- Contact</option>
   
-    <option value="/book/" >
-   Books</option> 
-  
-    <option value="/journal/" >
-   Journal Paper</option> 
-  
-    <option value="/conference/"  selected>
-   Conference Paper</option> 
-  
-    <option value="/talk/" >
-   Talks</option> 
+    <option value="/publication/" >
+   Publication</option> 
+      <option value="/publication/book/" >- Books</option>
+      <option value="/publication/journal/" >- Journal Paper</option>
+      <option value="/publication/conference/"  selected>- Conference Paper</option>
+      <option value="/publication/talk/" >- Talks</option>
   
 
 
@@ -190,8 +198,7 @@
     
     
     
-
-<ol>
+    <ol>
 <li>
 <p>IMAMA, Masaki Kohana, Masaru Kamada,<br>
 Web Service for Searching Halal Compliant Restaurants,<br>
@@ -450,13 +457,12 @@ pp. 419 - 424, (Aug, 2009)</p>
 </ol>
 
 
-
     
     
         <div class="chevrons">
     <div id="navigation">
-<a class="nav nav-prev" href="/journal/" title="Journal Paper"> <i class="fa fa-chevron-left"></i><label>Journal Paper</label></a>
-    <a class="nav nav-next" href="/talk/" title="Talks" style="margin-right: 0px;"><label>Talks</label><i class="fa fa-chevron-right"></i></a></div>
+<a class="nav nav-prev" href="/publication/journal/" title="Journal Paper"> <i class="fa fa-chevron-left"></i><label>Journal Paper</label></a>
+    <a class="nav nav-next" href="/publication/talk/" title="Talks" style="margin-right: 0px;"><label>Talks</label><i class="fa fa-chevron-right"></i></a></div>
   </div>
 
   </section>
@@ -473,7 +479,7 @@ pp. 419 - 424, (Aug, 2009)</p>
 
     
     <div class="github-link">
-      <a href="https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/conference/_index.md" target="blank"><i class="fa fa-code-fork"></i>
+      <a href="https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/publication/conference.md" target="blank"><i class="fa fa-code-fork"></i>
         Improve this page</a>
     </div>
     

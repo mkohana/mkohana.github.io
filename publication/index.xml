@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M.Kohana Page</title>
-    <link>/</link>
-    <description>Recent content on M.Kohana Page</description>
+    <title>Publication on M.Kohana Page</title>
+    <link>/publication/</link>
+    <description>Recent content in Publication on M.Kohana Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 13:52:16 +0900</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Biography</title>
-      <link>/cv/bio/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/bio/</guid>
-      <description>Biography Masaki Kohana, Ph.D
-iTL, Faculty of Global Informatics, Chuo University
-His research interests includes web-based systems, parallel and distributed systems, and text mining.
-He is a member of ACM, IEEE Computer Society, IEICE, and IPSJ.
-Research Interests  Web System Parallel and Distributed System Text Mining  Education  Ph.D in Science Technology, Seikei University (Mar, 2013) M.Eng, Seikei University (Mar, 2010) B.Eng, Seikei University (Mar, 2008)  Association Memberships  ACM (Jun, 2012 - ) IEEE Computer Society (Mar, 2012 - ) IEICE (Dec, 2010 - ) IPSJ (Apr, 2011 - )  Job Record  Associate Proffessor iTL, Faculty of Global Informatics, Chuo University (Apr, 2019 -) Assistant Professor</description>
-    </item>
     
     <item>
       <title>Books</title>
@@ -35,15 +22,6 @@ IoT Technologies: State of the Art and a Software Development Framework,
 Smart Sensors Networks, Chapter 1, pp.3-18,
 DOI: 10.1016/B978-0-12-809859-2.00002-4,
 ISBN: 978-0-12-809859-2, Academic Press, (2017.6).  </description>
-    </item>
-    
-    <item>
-      <title>Activity</title>
-      <link>/cv/activity/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/activity/</guid>
-      <description>Society  International Workshop on Web Services and Social Media  Co-Chair, 2015-current Program Committee Member, 2013-2014   The 17th International Conference on Network-Based Information Systems (NBiS2014) Program Committee Member The 33rd International Conference on Advanced Information Networking and Applications (AINA2019) Program Committee Member The 14th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC-2019), Track Co-Chair 電子情報通信学会 サイバーワールド特別研究専門委員会(Link:Japanese), 幹事, 2014-current 電子情報通信学会 和文論文誌D, サイバーワールド特集号, 編集幹事, 2016 第18回情報科学技術フォーラム (FIT2019), 研究会担当委員  Award   IDRユーザフォーラム2017 企業賞「Sansan株式会社」</description>
     </item>
     
     <item>
@@ -64,15 +42,6 @@ A Web Platform for Oral Exam of Programming Class,</description>
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>/cv/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/teaching/</guid>
-      <description>Current Chuo University Faculty of Global Informatics  Programming, 2019- Introductory Seminar, 2019- Information Fluency, 2019- Global Informatics History (Omnibus), 2019-  Past Chuo University Faculty of Letters, Socio Informatics  Information System Design, 2019 Information System Development, 2019  Faculty of Policy Studies  Information Networks, 2019  Ibaraki University Graduate School of Engineering  Data Analysis, 2017-2019 Mathematical Analysis, BigData Strategy, 2018-2019  Faculty of Engineering  Information Skill, 2018  Seikei University Department of Computer and Informatoin Science  Advanced Programming, 2015-2016 Advanced Programming Experiment, 2013-2016 Java Programming, 2013-2015 Java Programming Experiment, 2013-2015 Fundamental Programming Experiment, 2012-2016 Fundamental Programming, 2013-2014 Regular Programming Experiment, 2012  </description>
-    </item>
-    
-    <item>
       <title>Conference Paper</title>
       <link>/publication/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -86,16 +55,6 @@ pp. 683-691, (Sep, 2019)
   Daisuke Tanaka, Masaki Kohana, Michitoshi Niibori, Yasuhiro Ohtaki, Shusuke Okamoto, Masaru Kamada,
 Implementation of Interactive Tutorial for IslayPub by Hooking User Events,
 The 8th International Workshop on Web Services and Social Media (WSSM-2019),</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/cv/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/contact/</guid>
-      <description>Address Ichigaya-Tamachi 1-18, Shinjuku, Tokyo, Japan
-E-mail kohana [at] tamacc.chuo-u.ac.jp</description>
     </item>
     
     <item>
@@ -128,15 +87,6 @@ IoT向けLinuxスケジューラの調査,
 電子情報通信学会2種研究会サイバーワールド(CW)第32回研究会,
 p.33-38, (Mar, 2016)
   原田浩成, 小花聖輝, 岡本秀輔,</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/darts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/darts/</guid>
-      <description></description>
     </item>
     
   </channel>

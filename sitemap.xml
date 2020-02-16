@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/cv/bio/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>/news/</loc>
+    <lastmod>2020-02-16T00:48:52+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/cv/</loc>
+    <loc>/cv/bio/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,12 +18,26 @@
   </url>
   
   <url>
+    <loc>/publication/book/</loc>
+  </url>
+  
+  <url>
     <loc>/cv/activity/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/book/</loc>
+    <loc>/cv/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-02-16T13:52:16+09:00</lastmod>
   </url>
   
   <url>
@@ -32,7 +46,7 @@
   </url>
   
   <url>
-    <loc>/journal/</loc>
+    <loc>/publication/conference/</loc>
   </url>
   
   <url>
@@ -41,11 +55,7 @@
   </url>
   
   <url>
-    <loc>/conference/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+    <loc>/publication/talk/</loc>
   </url>
   
   <url>

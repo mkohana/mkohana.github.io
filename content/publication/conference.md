@@ -5,6 +5,20 @@ weight = 3
 alwaysopen = true
 +++
 
+1. Masaki Kohana, Shinji Sakamoto, Shusuke Okamoto,  
+Recovering Lost Connection for Web Browser Network,  
+The 9th International Workshop on Web Services and Social Media (WSSM-2020),  
+in joncunction with the 23th International Conference on Network-Based Information Systems
+(NBiS-2020),  
+pp. 567-575, (Sep, 2020)
+
+1. Shusuke Okamoto, Shinji Sakamoto, Masaki Kohana,  
+An Environment for Computer Programming Class Under COVID-19 Situation,  
+The 9th International Workshop on Web Services and Social Media (WSSM-2020),  
+in joncunction with the 23th International Conference on Network-Based Information Systems
+(NBiS-2020),  
+pp. 600-608, (Sep, 2020)
+
 1. IMAMA, Masaki Kohana, Masaru Kamada,  
 Web Service for Searching Halal Compliant Restaurants,  
 The 8th International Workshop on Web Services and Social Media (WSSM-2019),  

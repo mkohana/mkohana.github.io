@@ -6,10 +6,6 @@
     <description>Recent content in News on M.Kohana Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Feb 2020 00:48:52 +0900</lastBuildDate>
-    
-	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 16 Feb 2020 00:48:52 +0900</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

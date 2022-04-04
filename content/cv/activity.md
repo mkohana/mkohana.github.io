@@ -15,8 +15,8 @@ weight = 2
 * The 17th International Conference on Network-Based Information Systems (NBiS2014) Program Committee Member
 * The 33rd International Conference on Advanced Information Networking and Applications (AINA2019)
   Program Committee Member
-* The 14th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing
-  (3PGCIC-2019), Track Co-Chair
+* The International Conference on P2P, Parallel, Grid, Cloud and Internet Computing
+  (2019, 2020, 2021), Track Co-Chair
 * 電子情報通信学会 サイバーワールド特別研究専門委員会([Link:Japanese](http://www.ieice.org/iss/cw/jpn/)), 幹事, 2014-current
 * 電子情報通信学会 和文論文誌D, サイバーワールド特集号, 編集幹事, 2016
 * 第18回情報科学技術フォーラム (FIT2019), 研究会担当委員

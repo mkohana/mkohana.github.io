@@ -14,6 +14,11 @@ weight = 3
 - Introductory Seminar, 2019-
 - Information Fluency, 2019-
 - Global Informatics History (Omnibus), 2019-
+- Computer Architecture, 2020-
+- Operating System, 2020-
+- ICT Case Studies（ Network Construction）, 2020-
+- System Development, 2020-
+
 
 ### Past
 #### Chuo University

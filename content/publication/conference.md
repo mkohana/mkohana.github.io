@@ -5,6 +5,26 @@ weight = 3
 alwaysopen = true
 +++
 
+1. A Investigation of Suitable Data Transfer Range for Web-Based Virtual World Applications,  
+Masaki Kohana, Shinji Sakamoto, Shusuke Okamoto,  
+The 16th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing
+(3PGCIC-2021),  
+pp. 165-174, (Oct, 2021)
+
+1. A SPA of Online Lecture Contents with Voice,  
+Masaki Kohana, Shusuke Okamoto, Masaru Kamada,  
+The 10th International Workshop on Web Services and Social Media (WSSM-2021),  
+in conjunction with the 24th International Conference on Network-Based Information Systems
+(NBiS-2021),  
+pp. 384-390, (Sep, 2021)
+
+1. Ryoya Fukutani, Shusuke Okamoto, Shinji Sakamoto, Masaki Kohana,  
+A Dynamic and Distributed Simulation Method for Web-Based Games,  
+The 10th International Workshop on Web Services and Social Media (WSSM-2021),  
+in conjunction with the 24th International Conference on Network-Based Information Systems
+(NBiS-2021),  
+pp. 391-400, (Sep, 2021)
+
 1. Masaki Kohana, Shinji Sakamoto, Shusuke Okamoto,  
 Recovering Lost Connection for Web Browser Network,  
 The 9th International Workshop on Web Services and Social Media (WSSM-2020),  

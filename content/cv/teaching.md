@@ -19,6 +19,10 @@ weight = 3
 - ICT Case Studies（ Network Construction）, 2020-
 - System Development, 2020-
 
+#### Graduate School of Global Informatics
+- Parallel and Distributed System, 2023-
+- Research Literacy (Omnibus), 2023-
+- Practical Research on Global Informatics 1, 2023-
 
 ### Past
 #### Chuo University

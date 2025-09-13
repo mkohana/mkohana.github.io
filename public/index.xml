@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Masaki Kohana</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.com/</link>
     <description>Recent content in Home on Masaki Kohana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Sep 2025 22:40:03 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class</title>
-      <link>http://localhost:1313/projects/contributions/class/</link>
+      <link>https://example.com/projects/contributions/class/</link>
       <pubDate>Wed, 10 Sep 2025 22:40:03 +0900</pubDate>
-      <guid>http://localhost:1313/projects/contributions/class/</guid>
+      <guid>https://example.com/projects/contributions/class/</guid>
       <description>&lt;h3 id=&#34;current&#34;&gt;Current&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chuo-university&#34;&gt;Chuo University&lt;/h4&gt;&#xA;&lt;h5 id=&#34;faculty-of-global-informatics&#34;&gt;Faculty of Global Informatics&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programming, 2019-&lt;/li&gt;&#xA;&lt;li&gt;Introductory Seminar, 2019-&lt;/li&gt;&#xA;&lt;li&gt;Information Fluency, 2019-&lt;/li&gt;&#xA;&lt;li&gt;Global Informatics History (Omnibus), 2019-&lt;/li&gt;&#xA;&lt;li&gt;Computer Architecture, 2020-&lt;/li&gt;&#xA;&lt;li&gt;Operating System, 2020-&lt;/li&gt;&#xA;&lt;li&gt;ICT Case Studies（ Network Construction）, 2020-&lt;/li&gt;&#xA;&lt;li&gt;System Development, 2020-&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;graduate-school-of-global-informatics&#34;&gt;Graduate School of Global Informatics&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Parallel and Distributed System, 2023-&lt;/li&gt;&#xA;&lt;li&gt;Research Literacy (Omnibus), 2023-&lt;/li&gt;&#xA;&lt;li&gt;Practical Research on Global Informatics 1, 2023-&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;past&#34;&gt;Past&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chuo-university-1&#34;&gt;Chuo University&lt;/h4&gt;&#xA;&lt;h5 id=&#34;faculty-of-letters-socio-informatics&#34;&gt;Faculty of Letters, Socio Informatics&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Information System Design, 2019&lt;/li&gt;&#xA;&lt;li&gt;Information System Development, 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;faculty-of-policy-studies&#34;&gt;Faculty of Policy Studies&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Information Networks, 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;ibaraki-university&#34;&gt;Ibaraki University&lt;/h4&gt;&#xA;&lt;h5 id=&#34;graduate-school-of-engineering&#34;&gt;Graduate School of Engineering&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data Analysis, 2017-2019&lt;/li&gt;&#xA;&lt;li&gt;Mathematical Analysis, BigData Strategy, 2018-2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;faculty-of-engineering&#34;&gt;Faculty of Engineering&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Information Skill, 2018&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;seikei-university&#34;&gt;Seikei University&lt;/h4&gt;&#xA;&lt;h5 id=&#34;department-of-computer-and-informatoin-science&#34;&gt;Department of Computer and Informatoin Science&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Advanced Programming, 2015-2016&lt;/li&gt;&#xA;&lt;li&gt;Advanced Programming Experiment, 2013-2016&lt;/li&gt;&#xA;&lt;li&gt;Java Programming, 2013-2015&lt;/li&gt;&#xA;&lt;li&gt;Java Programming Experiment, 2013-2015&lt;/li&gt;&#xA;&lt;li&gt;Fundamental Programming Experiment, 2012-2016&lt;/li&gt;&#xA;&lt;li&gt;Fundamental Programming, 2013-2014&lt;/li&gt;&#xA;&lt;li&gt;Regular Programming Experiment, 2012&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Society</title>
-      <link>http://localhost:1313/projects/contributions/society/</link>
+      <link>https://example.com/projects/contributions/society/</link>
       <pubDate>Wed, 10 Sep 2025 22:19:18 +0900</pubDate>
-      <guid>http://localhost:1313/projects/contributions/society/</guid>
+      <guid>https://example.com/projects/contributions/society/</guid>
       <description>&lt;h2 id=&#34;society&#34;&gt;Society&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;International Workshop on Web Services and Social Media&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Co-Chair, 2015-current&lt;/li&gt;&#xA;&lt;li&gt;Program Committee Member, 2013-2014&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;The 17th International Conference on Network-Based Information Systems (NBiS2014) Program Committee Member&lt;/li&gt;&#xA;&lt;li&gt;The 33rd International Conference on Advanced Information Networking and Applications (AINA2019)&#xA;Program Committee Member&lt;/li&gt;&#xA;&lt;li&gt;The International Conference on P2P, Parallel, Grid, Cloud and Internet Computing,  Track Co-Chair&lt;/li&gt;&#xA;&lt;li&gt;電子情報通信学会 サイバーワールド特別研究専門委員会(&lt;a href=&#34;http://www.ieice.org/iss/cw/jpn/&#34;&gt;Link:Japanese&lt;/a&gt;), 幹事, 2014-current&lt;/li&gt;&#xA;&lt;li&gt;電子情報通信学会 和文論文誌D, サイバーワールド特集号, 編集幹事, 2016&lt;/li&gt;&#xA;&lt;li&gt;第18回情報科学技術フォーラム (FIT2019), 研究会担当委員&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;award&#34;&gt;Award&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;IDRユーザフォーラム2017 企業賞「Sansan株式会社」&lt;br&gt;&#xA;坂地泰紀, 小林暁雄, 小花聖輝,&lt;br&gt;&#xA;動画サイトのコメントを用いたタグ推定に関する研究,&lt;br&gt;&#xA;IDRユーザフォーラム2017, ポスター発表, (Dec, 2017)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Journals</title>
-      <link>http://localhost:1313/publications/journals/</link>
+      <link>https://example.com/publications/journals/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/journals/</guid>
+      <guid>https://example.com/publications/journals/</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Shotaro Naiki, Masaki Kohana, Michitoshi Niibori, Shusuke Okamoto, Yasuhiro Ohtaki, Masaru&#xA;Kamada,&lt;br&gt;&#xA;A graphical front-end interface for React.js considering state-transition diagrams,&lt;br&gt;&#xA;International Journal of Grid and Utility Computing,&lt;br&gt;&#xA;Vol. 13, No. 5, pp. 482-494, 2022&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Masaki Kohana, Shinji Sakamoto, Shusuke Okamoto,&lt;br&gt;&#xA;Web Browser Network Based on a BA Model for a Web-Based Virtual World,&lt;br&gt;&#xA;Future Internet, Vol. 11, No. 7, 147, 2019&lt;br&gt;&#xA;DOI: 10.3390/fi11070147&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Masaki Kohana, Hiroki Sakaji, Akio Kobayashi, Shusuke Okamoto,&lt;br&gt;&#xA;File Assignment Control for a Web System of Contents Categorization,&lt;br&gt;&#xA;Transaction on Computational Collective Intelligence,&#xA;Vol. 33, Springer, pp. 89-102, 2019&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proceedings</title>
-      <link>http://localhost:1313/publications/proceedings/</link>
+      <link>https://example.com/publications/proceedings/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/proceedings/</guid>
+      <guid>https://example.com/publications/proceedings/</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A Web-Based Online Lecture System Using User Operation Synchronization,&lt;br&gt;&#xA;Masaki Kohana, Shusuke Okamoto, Masaru Kamada,&lt;br&gt;&#xA;The 13th International Conference on Emerging Internet, Data &amp;amp; Web Technologies (EIDWT-2025),&lt;br&gt;&#xA;pp. 434-443, (Feb, 2025)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A Community Web System for LGBTQ+ Students with Identification,&lt;br&gt;&#xA;Miyu Sato, Masaki Kohana,&lt;br&gt;&#xA;The 19th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing&#xA;(3PGCIC-2024),&lt;br&gt;&#xA;pp. 154-164, (Nov, 2024)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A Learning Web System for Website Development,&lt;br&gt;&#xA;Aino Nakamura, Masaki Kohana,&lt;br&gt;&#xA;The 19th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing&#xA;(3PGCIC-2024),&lt;br&gt;&#xA;pp. 154-164, (Nov, 2024)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks</title>
-      <link>http://localhost:1313/publications/talks/</link>
+      <link>https://example.com/publications/talks/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/talks/</guid>
+      <guid>https://example.com/publications/talks/</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;名取真生, 小花聖輝,&lt;br&gt;&#xA;環境に配慮した観光ルート提案アプリ,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第58回研究会,&lt;br&gt;&#xA;(Dec, 2024)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;細田佳希, 小花聖輝,&lt;br&gt;&#xA;個人情報をローカルで取り扱うシングルサインオンシステム,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第56回研究会,&lt;br&gt;&#xA;(Mar, 2024)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;中村愛乃, 小花聖輝,&lt;br&gt;&#xA;Webサイト制作学習支援Webシステム,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第56回研究会,&lt;br&gt;&#xA;(Mar, 2024)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;坂地泰紀, 小林暁雄, 小花聖輝, 高野保直, 和泉潔,&lt;br&gt;&#xA;様々なデータを用いた動画タグの予測,&lt;br&gt;&#xA;人工知能と知識処理研究会 (AI) , 電子情報通信学会技術研究報告,&lt;br&gt;&#xA;pp.71-75, (2019)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;坂地泰紀, 小林暁雄, 小花聖輝,&lt;br&gt;&#xA;動画サイトのコメントを用いたタグ推定に関する研究,&lt;br&gt;&#xA;IDRユーザフォーラム2017, ポスター発表, (Dec, 2017)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;原田浩成, 小花聖輝, 岡本秀輔,&lt;br&gt;&#xA;移動販売スケジューリング・ウェブシステム,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第35回研究会,&lt;br&gt;&#xA;p.25-30, (Mar, 2017)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;乾高大, 小花聖輝, 岡本秀輔, 鎌田賢,&lt;br&gt;&#xA;モノのインターネットのためのアプリケーションフレームワーク,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第35回研究会,&lt;br&gt;&#xA;p.19-24, (Mar, 2017)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;坂地泰紀, 小花聖輝, 小林暁雄, 酒井浩之,&lt;br&gt;&#xA;ニコニコ動画に投稿された動画の新しいタグの獲得,&lt;br&gt;&#xA;第32回ファジィシステムシンポジウム(FSS2016),&lt;br&gt;&#xA;pp. 249 - 250, (Aug, 2016)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;乾高大, 小花聖輝, 岡本秀輔,&lt;br&gt;&#xA;IoT向けLinuxスケジューラの調査,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第32回研究会,&lt;br&gt;&#xA;p.33-38, (Mar, 2016)&lt;/p&gt;</description>
     </item>
   </channel>

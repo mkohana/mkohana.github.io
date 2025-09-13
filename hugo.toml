@@ -1,6 +1,6 @@
 
 title = "Masaki Kohana"
-baseURL = "https://example.com/"
+baseURL = "https://mkohana.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -31,12 +31,8 @@ trackerID = "XX-123446-01"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/mkohana/"
 
-[[params.handles]]
-    name = "Bluesky"
-    link = "https://bsky.app/profile/webbinaro.dev"
-    icon = "bluesky"
 
 
 [outputs]

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Masaki Kohana</title>
-    <link>https://example.com/publications/</link>
+    <link>https://mkohana.github.io/publications/</link>
     <description>Recent content in Publications on Masaki Kohana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mkohana.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journals</title>
-      <link>https://example.com/publications/journals/</link>
+      <link>https://mkohana.github.io/publications/journals/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journals/</guid>
+      <guid>https://mkohana.github.io/publications/journals/</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Shotaro Naiki, Masaki Kohana, Michitoshi Niibori, Shusuke Okamoto, Yasuhiro Ohtaki, Masaru&#xA;Kamada,&lt;br&gt;&#xA;A graphical front-end interface for React.js considering state-transition diagrams,&lt;br&gt;&#xA;International Journal of Grid and Utility Computing,&lt;br&gt;&#xA;Vol. 13, No. 5, pp. 482-494, 2022&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Masaki Kohana, Shinji Sakamoto, Shusuke Okamoto,&lt;br&gt;&#xA;Web Browser Network Based on a BA Model for a Web-Based Virtual World,&lt;br&gt;&#xA;Future Internet, Vol. 11, No. 7, 147, 2019&lt;br&gt;&#xA;DOI: 10.3390/fi11070147&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Masaki Kohana, Hiroki Sakaji, Akio Kobayashi, Shusuke Okamoto,&lt;br&gt;&#xA;File Assignment Control for a Web System of Contents Categorization,&lt;br&gt;&#xA;Transaction on Computational Collective Intelligence,&#xA;Vol. 33, Springer, pp. 89-102, 2019&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proceedings</title>
-      <link>https://example.com/publications/proceedings/</link>
+      <link>https://mkohana.github.io/publications/proceedings/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/proceedings/</guid>
+      <guid>https://mkohana.github.io/publications/proceedings/</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A Web-Based Online Lecture System Using User Operation Synchronization,&lt;br&gt;&#xA;Masaki Kohana, Shusuke Okamoto, Masaru Kamada,&lt;br&gt;&#xA;The 13th International Conference on Emerging Internet, Data &amp;amp; Web Technologies (EIDWT-2025),&lt;br&gt;&#xA;pp. 434-443, (Feb, 2025)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A Community Web System for LGBTQ+ Students with Identification,&lt;br&gt;&#xA;Miyu Sato, Masaki Kohana,&lt;br&gt;&#xA;The 19th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing&#xA;(3PGCIC-2024),&lt;br&gt;&#xA;pp. 154-164, (Nov, 2024)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A Learning Web System for Website Development,&lt;br&gt;&#xA;Aino Nakamura, Masaki Kohana,&lt;br&gt;&#xA;The 19th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing&#xA;(3PGCIC-2024),&lt;br&gt;&#xA;pp. 154-164, (Nov, 2024)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks</title>
-      <link>https://example.com/publications/talks/</link>
+      <link>https://mkohana.github.io/publications/talks/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/talks/</guid>
+      <guid>https://mkohana.github.io/publications/talks/</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;名取真生, 小花聖輝,&lt;br&gt;&#xA;環境に配慮した観光ルート提案アプリ,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第58回研究会,&lt;br&gt;&#xA;(Dec, 2024)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;細田佳希, 小花聖輝,&lt;br&gt;&#xA;個人情報をローカルで取り扱うシングルサインオンシステム,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第56回研究会,&lt;br&gt;&#xA;(Mar, 2024)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;中村愛乃, 小花聖輝,&lt;br&gt;&#xA;Webサイト制作学習支援Webシステム,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第56回研究会,&lt;br&gt;&#xA;(Mar, 2024)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;坂地泰紀, 小林暁雄, 小花聖輝, 高野保直, 和泉潔,&lt;br&gt;&#xA;様々なデータを用いた動画タグの予測,&lt;br&gt;&#xA;人工知能と知識処理研究会 (AI) , 電子情報通信学会技術研究報告,&lt;br&gt;&#xA;pp.71-75, (2019)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;坂地泰紀, 小林暁雄, 小花聖輝,&lt;br&gt;&#xA;動画サイトのコメントを用いたタグ推定に関する研究,&lt;br&gt;&#xA;IDRユーザフォーラム2017, ポスター発表, (Dec, 2017)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;原田浩成, 小花聖輝, 岡本秀輔,&lt;br&gt;&#xA;移動販売スケジューリング・ウェブシステム,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第35回研究会,&lt;br&gt;&#xA;p.25-30, (Mar, 2017)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;乾高大, 小花聖輝, 岡本秀輔, 鎌田賢,&lt;br&gt;&#xA;モノのインターネットのためのアプリケーションフレームワーク,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第35回研究会,&lt;br&gt;&#xA;p.19-24, (Mar, 2017)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;坂地泰紀, 小花聖輝, 小林暁雄, 酒井浩之,&lt;br&gt;&#xA;ニコニコ動画に投稿された動画の新しいタグの獲得,&lt;br&gt;&#xA;第32回ファジィシステムシンポジウム(FSS2016),&lt;br&gt;&#xA;pp. 249 - 250, (Aug, 2016)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;乾高大, 小花聖輝, 岡本秀輔,&lt;br&gt;&#xA;IoT向けLinuxスケジューラの調査,&lt;br&gt;&#xA;電子情報通信学会2種研究会サイバーワールド(CW)第32回研究会,&lt;br&gt;&#xA;p.33-38, (Mar, 2016)&lt;/p&gt;</description>
     </item>
   </channel>

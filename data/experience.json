@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Assistant Professor",
+        "company":"Ibaraki University",
+        "summary":"Faculty of Engineering",
+        "range":"2017 - 2019"
+    },
+    {
+        "role":"Assistant Professor",
+        "company":"Seikei University",
+        "summary":"Faculty of Science and Technology",
+        "range":"2013 - 2017"
+    },
+    {
+        "role":"Associate Professor",
+        "company":"Chuo University",
+        "summary":"Faculty of Global Informatics",
+        "range":"2019 - Present"
+    }
+]

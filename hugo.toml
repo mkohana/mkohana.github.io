@@ -1,0 +1,46 @@
+
+title = "Masaki Kohana"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "iTL, Chuo University, Tokyo, Japan"
+email = "kohana.92h [at] g.chuo-u.ac.jp"
+favicon = "/favicon.ico"
+firstName = "Masaki"
+lastName = "Kohana"
+phone = ""
+profileImage = ""
+showQr = false
+showContact = true
+showBoards  = false
+showCertifications = false
+showSocializations = false
+sections = ["publications", "contributions","experience","education"]
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/eddiewebb/"
+
+[[params.handles]]
+    name = "Bluesky"
+    link = "https://bsky.app/profile/webbinaro.dev"
+    icon = "bluesky"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

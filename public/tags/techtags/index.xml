@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techtags on Masaki Kohana</title>
+    <link>http://localhost:1313/tags/techtags/</link>
+    <description>Recent content in Techtags on Masaki Kohana</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Sep 2025 22:40:03 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/techtags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class</title>
+      <link>http://localhost:1313/projects/contributions/class/</link>
+      <pubDate>Wed, 10 Sep 2025 22:40:03 +0900</pubDate>
+      <guid>http://localhost:1313/projects/contributions/class/</guid>
+      <description>&lt;h3 id=&#34;current&#34;&gt;Current&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chuo-university&#34;&gt;Chuo University&lt;/h4&gt;&#xA;&lt;h5 id=&#34;faculty-of-global-informatics&#34;&gt;Faculty of Global Informatics&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programming, 2019-&lt;/li&gt;&#xA;&lt;li&gt;Introductory Seminar, 2019-&lt;/li&gt;&#xA;&lt;li&gt;Information Fluency, 2019-&lt;/li&gt;&#xA;&lt;li&gt;Global Informatics History (Omnibus), 2019-&lt;/li&gt;&#xA;&lt;li&gt;Computer Architecture, 2020-&lt;/li&gt;&#xA;&lt;li&gt;Operating System, 2020-&lt;/li&gt;&#xA;&lt;li&gt;ICT Case Studies（ Network Construction）, 2020-&lt;/li&gt;&#xA;&lt;li&gt;System Development, 2020-&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;graduate-school-of-global-informatics&#34;&gt;Graduate School of Global Informatics&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Parallel and Distributed System, 2023-&lt;/li&gt;&#xA;&lt;li&gt;Research Literacy (Omnibus), 2023-&lt;/li&gt;&#xA;&lt;li&gt;Practical Research on Global Informatics 1, 2023-&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;past&#34;&gt;Past&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chuo-university-1&#34;&gt;Chuo University&lt;/h4&gt;&#xA;&lt;h5 id=&#34;faculty-of-letters-socio-informatics&#34;&gt;Faculty of Letters, Socio Informatics&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Information System Design, 2019&lt;/li&gt;&#xA;&lt;li&gt;Information System Development, 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;faculty-of-policy-studies&#34;&gt;Faculty of Policy Studies&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Information Networks, 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;ibaraki-university&#34;&gt;Ibaraki University&lt;/h4&gt;&#xA;&lt;h5 id=&#34;graduate-school-of-engineering&#34;&gt;Graduate School of Engineering&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data Analysis, 2017-2019&lt;/li&gt;&#xA;&lt;li&gt;Mathematical Analysis, BigData Strategy, 2018-2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;faculty-of-engineering&#34;&gt;Faculty of Engineering&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Information Skill, 2018&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;seikei-university&#34;&gt;Seikei University&lt;/h4&gt;&#xA;&lt;h5 id=&#34;department-of-computer-and-informatoin-science&#34;&gt;Department of Computer and Informatoin Science&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Advanced Programming, 2015-2016&lt;/li&gt;&#xA;&lt;li&gt;Advanced Programming Experiment, 2013-2016&lt;/li&gt;&#xA;&lt;li&gt;Java Programming, 2013-2015&lt;/li&gt;&#xA;&lt;li&gt;Java Programming Experiment, 2013-2015&lt;/li&gt;&#xA;&lt;li&gt;Fundamental Programming Experiment, 2012-2016&lt;/li&gt;&#xA;&lt;li&gt;Fundamental Programming, 2013-2014&lt;/li&gt;&#xA;&lt;li&gt;Regular Programming Experiment, 2012&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

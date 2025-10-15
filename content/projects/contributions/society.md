@@ -38,4 +38,4 @@ A System for Confirming Attendance at Work
 * 海外渡航旅費援助, 公益財団法人電気通信普及財団,
 The 6th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2018), 2018
 
-* 中央大学特定課題研究費, 2024.04-2025.03
+* 中央大学特定課題研究費, 2024.04-2026.03

@@ -12,6 +12,11 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
+1. A Web Server Workload Reduction by Calculating BA Model Network Construction on Multiple Web Browsers,  
+Masaki Kohana, Shusuke Okamoto,  
+The 17th International Conference on Intelligent Networking and Collaborative Systems
+(INCoS-2025),  
+pp. 49-59, (Nov 2025)
 
 1. A Web-Based Online Lecture System Using User Operation Synchronization,  
 Masaki Kohana, Shusuke Okamoto, Masaru Kamada,  

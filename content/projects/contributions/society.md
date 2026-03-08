@@ -19,7 +19,10 @@ sitemap:
 * The 17th International Conference on Network-Based Information Systems (NBiS2014) Program Committee Member
 * The 33rd International Conference on Advanced Information Networking and Applications (AINA2019)
   Program Committee Member
-* The International Conference on P2P, Parallel, Grid, Cloud and Internet Computing,  Track Co-Chair
+* The International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC),  Track Co-Chair, 2019-
+  (Social Networks and Collaborative Systems)
+* The International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing
+  (IMIS), Track Co-Chair (IoT Systems and Social Networking), 2026-
 * 電子情報通信学会 サイバーワールド特別研究専門委員会([Link:Japanese](http://www.ieice.org/iss/cw/jpn/)), 幹事, 2014-current
 * 電子情報通信学会 和文論文誌D, サイバーワールド特集号, 編集幹事, 2016
 * 第18回情報科学技術フォーラム (FIT2019), 研究会担当委員

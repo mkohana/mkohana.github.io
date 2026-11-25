@@ -12,6 +12,33 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
+1. An AOI-based Data Propagation Method over Web Browser Networks for Virtual Worlds,  
+Masaki Kohana, Shusuke Okamoto,  
+The 21th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing
+(3PGCIC-2026),  
+pp. 122-132, (Nov, 2026)
+
+1. An AST-Based Static Analysis System for SQL Anti-pattern Risk Quantification and Inline Improvement Suggestions,  
+Narumi Kiyooka, Masaki Kohana,  
+The 29th International Conference on Network-Based Information Systems (NBiS-2026),  
+pp. 95-105, (Sep, 2026)
+
+1. Decoupled Software Architecture for Web Applications and Their Coachmark-Guided Interactive Tutorials
+Y Niinami, E Zhou, M Niibori, M Kohana, S Okamoto, Y Ohtaki, M Kamada
+The 29th International Conference on Network-Based Information Systems (NBiS-2026),  
+pp. 59-70, (Sep, 2027)
+
+1. Shift Generation Using a Nurse Scheduling Model for a University Festival  
+Taiki Takahashi, Masaki Kohana,  
+The 29th International Conference on Network-Based Information Systems (NBiS-2026),  
+pp. 106-118, (Sep, 2026)
+
+1. A Multi-group Data Sharing Network for Web-Based Virtual Worlds,  
+Masaki Kohana, Shusuke Okamoto,  
+International Conference on Emerging Internet, Data & Web Technologies, 245-254
+The 14th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2026),  
+pp. 245-254, (Feb, 2026)
+
 1. A Web Server Workload Reduction by Calculating BA Model Network Construction on Multiple Web Browsers,  
 Masaki Kohana, Shusuke Okamoto,  
 The 17th International Conference on Intelligent Networking and Collaborative Systems
